@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8" />
+    <title>Разбор вкладок</title>
+    <link rel="stylesheet" href="popup.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Разбор вкладок</h1>
+      <p id="status">Готово к разбору.</p>
+    </header>
+
+    <div class="actions">
+      <button id="byModel" class="primary">Разобрать по смыслу</button>
+      <button id="byDomain">По доменам</button>
+    </div>
+
+    <section id="duplicates" hidden>
+      <h2>Дубликаты <span id="dupeCount"></span></h2>
+      <ul id="dupeList"></ul>
+      <button id="closeDupes" class="danger">Закрыть лишние</button>
+    </section>
+
+    <section id="plan" hidden>
+      <h2>Предлагаемые группы</h2>
+      <ul id="groupList"></ul>
+      <div class="actions">
+        <button id="apply" class="primary">Применить</button>
+        <button id="clear">Сбросить</button>
+      </div>
+    </section>
+
+    <section id="leftovers" hidden>
+      <h2>Вне групп</h2>
+      <ul id="leftoverList"></ul>
+    </section>
+
+    <footer>
+      <label><input type="checkbox" id="skipPinned" checked /> не трогать закреплённые</label>
+      <span id="meta"></span>
+    </footer>
+
+    <script src="core.js"></script>
+    <script src="popup.js"></script>
+  </body>
+</html>

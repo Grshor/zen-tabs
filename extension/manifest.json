@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+  "name": "Разбор вкладок (локальная модель)",
+  "version": "0.1.0",
+  "description": "Раскладывает открытые вкладки по смысловым группам через локальную модель на 127.0.0.1:8091. Ничего не уходит в интернет.",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "zen-tabs@local",
+      "strict_min_version": "139.0"
+    }
+  },
+  "permissions": ["tabs", "tabGroups", "http://127.0.0.1:8091/*"],
+  "browser_action": {
+    "default_popup": "popup.html",
+    "default_title": "Разбор вкладок"
+  }
+}
