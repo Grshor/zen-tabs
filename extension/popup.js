@@ -237,11 +237,13 @@ async function loadPlan() {
     const stored = await api.storage.local.get(["migrated", "space"]);
     state.migrated = stored.migrated || {};
     state.space = stored.space || "";
-    const response = await fetch(PLAN_URL, { cache: "no-store" });
-    if (!response.ok) throw new Error(`HTTP ${response.status}`);
-    state.plan = await response.json();
-    state.status = state.plan;
-    spaces.status.textContent = `план от ${(state.plan.generatedAt || "").slice(0, 16).replace("T", " ")}: вкладок ${state.plan.totalTabs}, переносов ${state.plan.moves}`;
+    const plan = await fetchPlan();
+    if (!plan) throw new Error("ни вложенного плана, ни сервера");
+    state.plan = plan;
+    state.planSource = state.planFromServer ? "с сервера" : "вложенный";
+    spaces.status.textContent =
+      `план от ${(state.plan.generatedAt || "").slice(0, 16).replace("T", " ")} (${state.planSource}): ` +
+      `вкладок ${state.plan.totalTabs}, переносов ${state.plan.moves}`;
     const names = [...new Set([...state.plan.spaces.map((s) => s.name), ...state.plan.assignments.map((a) => a.from)])];
     spaces.pick.replaceChildren(...names.map((name) => new Option(name, name)));
     spaces.pick.value = state.space || guessSpace();
@@ -251,6 +253,37 @@ async function loadPlan() {
     spaces.pullIn.disabled = true;
     spaces.pushOut.disabled = true;
   }
+}
+
+/**
+ * План берём из двух источников и выбираем свежайший: файл внутри расширения
+ * (работает всегда, но стареет) и локальный сервер (свежий, но зависит от сети).
+ */
+async function fetchPlan() {
+  let best = null;
+  let fromServer = false;
+  let serverError = null;
+  try {
+    const response = await fetch(api.runtime.getURL("plan.json"), { cache: "no-store" });
+    if (response.ok) best = await response.json();
+  } catch {
+    /* вложенного плана может не быть — это нормально */
+  }
+  try {
+    const response = await fetch(PLAN_URL, { cache: "no-store" });
+    if (response.ok) {
+      const fresh = await response.json();
+      if (!best || new Date(fresh.generatedAt) > new Date(best.generatedAt)) {
+        best = fresh;
+        fromServer = true;
+      }
+    }
+  } catch (error) {
+    serverError = error;
+  }
+  state.planFromServer = fromServer;
+  state.planServerError = serverError;
+  return best;
 }
 
 function assignmentFor(url) {

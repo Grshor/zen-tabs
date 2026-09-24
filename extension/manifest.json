@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Разбор вкладок (локальная модель)",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Раскладывает открытые вкладки по смысловым группам через локальную модель на 127.0.0.1:8091. Ничего не уходит в интернет.",
   "browser_specific_settings": {
     "gecko": {
@@ -9,14 +9,22 @@
       "strict_min_version": "139.0"
     }
   },
-  "permissions": ["tabs", "tabGroups", "storage", "http://127.0.0.1:8091/*", "http://127.0.0.1:8093/*"],
+  "permissions": [
+    "tabs",
+    "tabGroups",
+    "storage",
+    "http://127.0.0.1:8091/*",
+    "http://127.0.0.1:8093/*"
+  ],
   "browser_action": {
     "default_popup": "popup.html",
     "default_title": "Разбор вкладок"
   },
   "commands": {
     "_execute_browser_action": {
-      "suggested_key": { "default": "Alt+Shift+U" },
+      "suggested_key": {
+        "default": "Alt+Shift+U"
+      },
       "description": "Открыть попап разбора вкладок"
     }
   }

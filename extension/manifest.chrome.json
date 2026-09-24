@@ -1,17 +1,26 @@
 {
   "manifest_version": 3,
   "name": "Разбор вкладок (локальная модель)",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Раскладывает открытые вкладки по смысловым группам через локальную модель на 127.0.0.1:8091.",
-  "permissions": ["tabs", "tabGroups", "storage"],
-  "host_permissions": ["http://127.0.0.1:8091/*", "http://127.0.0.1:8093/*"],
+  "permissions": [
+    "tabs",
+    "tabGroups",
+    "storage"
+  ],
+  "host_permissions": [
+    "http://127.0.0.1:8091/*",
+    "http://127.0.0.1:8093/*"
+  ],
   "action": {
     "default_popup": "popup.html",
     "default_title": "Разбор вкладок"
   },
   "commands": {
     "_execute_action": {
-      "suggested_key": { "default": "Alt+Shift+U" },
+      "suggested_key": {
+        "default": "Alt+Shift+U"
+      },
       "description": "Открыть попап разбора вкладок"
     }
   }
