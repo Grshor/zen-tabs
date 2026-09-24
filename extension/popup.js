@@ -270,11 +270,13 @@ function guessSpace() {
     if (hit.toName) target.set(hit.toName, (target.get(hit.toName) || 0) + 1);
     source.set(hit.from, (source.get(hit.from) || 0) + 1);
   }
-  const best = (map) => [...map.entries()].sort((a, b) => b[1] - a[1])[0];
-  const t = best(target);
-  const s = best(source);
-  if (t && t[1] >= 3) return t[0];
-  return s ? s[0] : "";
+  const best = (map) => [...map.entries()].sort((a, b) => b[1] - a[1])[0] || ["", 0];
+  const [targetName, targetVotes] = best(target);
+  const [sourceName, sourceVotes] = best(source);
+  // Сравниваем голоса, а не порог: в старом пространстве вкладок по плану больше,
+  // потому что часть из них уже переехала и перестала быть видимой.
+  if (targetVotes && targetVotes >= Math.max(3, sourceVotes)) return targetName;
+  return sourceName;
 }
 
 function renderSpaces() {
@@ -311,14 +313,39 @@ async function pullIn() {
   );
   if (!pending.length) return;
   setStatus(`Открываю ${pending.length} вкладок в «${name}»…`);
+  const byGroup = new Map();
   for (const item of pending) {
-    await api.tabs.create({ url: item.url, active: false });
+    const tab = await api.tabs.create({ url: item.url, active: false });
     state.migrated[core.normalizeUrl(item.url)] = Date.now();
+    const group = item.group || "прочее";
+    if (!byGroup.has(group)) byGroup.set(group, []);
+    byGroup.get(group).push(tab.id);
   }
   await api.storage.local.set({ migrated: state.migrated });
-  setStatus(`Открыто ${pending.length} вкладок. Теперь зайди в исходное пространство и закрой перенесённые.`);
+
+  // Группы внутри пространства — по подтемам из плана: пространство = тема, группы = подтемы.
+  let madeGroups = 0;
+  if (api.tabs.group) {
+    const calls = core.groupingCalls(
+      [...byGroup.entries()].filter(([, ids]) => ids.length >= 2).map(([groupName, tabIds]) => ({ name: groupName, tabIds }))
+    );
+    for (const call of calls) {
+      try {
+        const groupId = await api.tabs.group({ tabIds: call.tabIds });
+        if (api.tabGroups) await api.tabGroups.update(groupId, { title: call.name, color: call.color, collapsed: false });
+        madeGroups++;
+      } catch {
+        /* вкладки останутся без группы — не повод срывать перенос */
+      }
+    }
+  }
+
   await loadTabs();
   renderSpaces();
+  setStatus(
+    `Открыто ${pending.length} вкладок в «${name}»${madeGroups ? `, собрано групп по подтемам: ${madeGroups}` : ""}. ` +
+      "Теперь зайди в исходное пространство и закрой перенесённые."
+  );
 }
 
 async function pushOut() {
@@ -332,9 +359,9 @@ async function pushOut() {
   await api.tabs.remove(targets.map((tab) => tab.id));
   for (const tab of targets) delete state.migrated[core.normalizeUrl(tab.url)];
   await api.storage.local.set({ migrated: state.migrated });
-  setStatus(`Закрыто ${targets.length}. Эти вкладки живут в своих новых пространствах.`);
   await loadTabs();
   renderSpaces();
+  setStatus(`Закрыто ${targets.length}. Эти вкладки живут в своих новых пространствах.`);
 }
 
 spaces.pick.addEventListener("change", () => {

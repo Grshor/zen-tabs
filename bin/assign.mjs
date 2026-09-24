@@ -128,7 +128,7 @@ function parseAssignments(text, validIds, maxValue = 99) {
 }
 
 /** Один запрос к модели: короткий, без цепочек рассуждений. */
-async function askModel(endpoint, messages, maxTokens = 700, timeoutMs = 300000) {
+async function askModel(endpoint, messages, maxTokens = 260, timeoutMs = 300000) {
   const controller = new AbortController();
   const timer = setTimeout(() => controller.abort(), timeoutMs);
   try {
@@ -136,7 +136,15 @@ async function askModel(endpoint, messages, maxTokens = 700, timeoutMs = 300000)
       method: "POST",
       headers: { "Content-Type": "application/json" },
       signal: controller.signal,
-      body: JSON.stringify({ model: "local", temperature: 0.2, max_tokens: maxTokens, messages }),
+      body: JSON.stringify({
+        model: "local",
+        temperature: 0.2,
+        max_tokens: maxTokens,
+        // Строка формата заканчивается переводом строки; всё, что модель начинает
+        // писать «после ответа», обрезается здесь, а не генерируется впустую.
+        stop: ["\n\n", "Пояснение", "Вот"],
+        messages,
+      }),
     });
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
     const data = await response.json();
