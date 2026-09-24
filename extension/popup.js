@@ -212,10 +212,143 @@ function clearPlan() {
   setStatus("План сброшен.");
 }
 
+// --- пространства: применение плана (режим B: очередь переносов) --------------
+// План считает CLI (lm plan) и раздаёт с 127.0.0.1:8093. Расширение по нему:
+//   «открыть здесь»    — открывает в текущем (новом) пространстве те вкладки, которые
+//                        должны в нём жить, и запоминает их как перенесённые;
+//   «закрыть перенесённые» — в старом пространстве закрывает те, что уже открыты в новом.
+// Порядок именно такой: сначала открыть в целевом, потом закрыть в исходном, иначе
+// вкладки потеряются.
+
+const PLAN_URL = "http://127.0.0.1:8093/plan.json";
+
+const spaces = {
+  section: document.getElementById("spaces"),
+  status: document.getElementById("planStatus"),
+  pick: document.getElementById("spacePick"),
+  counts: document.getElementById("spaceCounts"),
+  pullIn: document.getElementById("pullIn"),
+  pushOut: document.getElementById("pushOut"),
+};
+
+async function loadPlan() {
+  spaces.section.hidden = false;
+  try {
+    const stored = await api.storage.local.get(["migrated", "space"]);
+    state.migrated = stored.migrated || {};
+    state.space = stored.space || "";
+    const response = await fetch(PLAN_URL, { cache: "no-store" });
+    if (!response.ok) throw new Error(`HTTP ${response.status}`);
+    state.plan = await response.json();
+    state.status = state.plan;
+    spaces.status.textContent = `план от ${(state.plan.generatedAt || "").slice(0, 16).replace("T", " ")}: вкладок ${state.plan.totalTabs}, переносов ${state.plan.moves}`;
+    const names = [...new Set([...state.plan.spaces.map((s) => s.name), ...state.plan.assignments.map((a) => a.from)])];
+    spaces.pick.replaceChildren(...names.map((name) => new Option(name, name)));
+    spaces.pick.value = state.space || guessSpace();
+    renderSpaces();
+  } catch (error) {
+    spaces.status.textContent = `план не найден: ${error?.message || error}. Посчитать: lm plan`;
+    spaces.pullIn.disabled = true;
+    spaces.pushOut.disabled = true;
+  }
+}
+
+function assignmentFor(url) {
+  if (!state.plan) return null;
+  const key = core.normalizeUrl(url);
+  return state.plan.assignments.find((a) => core.normalizeUrl(a.url) === key) || null;
+}
+
+/** Угадать текущее пространство: в новом оно равно to у большинства вкладок, в старом — from. */
+function guessSpace() {
+  if (!state.plan) return "";
+  const target = new Map();
+  const source = new Map();
+  for (const tab of state.tabs) {
+    const hit = assignmentFor(tab.url);
+    if (!hit) continue;
+    if (hit.toName) target.set(hit.toName, (target.get(hit.toName) || 0) + 1);
+    source.set(hit.from, (source.get(hit.from) || 0) + 1);
+  }
+  const best = (map) => [...map.entries()].sort((a, b) => b[1] - a[1])[0];
+  const t = best(target);
+  const s = best(source);
+  if (t && t[1] >= 3) return t[0];
+  return s ? s[0] : "";
+}
+
+function renderSpaces() {
+  if (!state.plan) return;
+  const name = spaces.pick.value;
+  const isTarget = state.plan.spaces.some((s) => s.name === name);
+  const incoming = state.plan.assignments.filter((a) => a.toName === name && a.from !== name);
+  const pending = incoming.filter((a) => !state.migrated[core.normalizeUrl(a.url)]);
+  const outgoing = state.plan.assignments.filter((a) => a.from === name && a.toName && a.toName !== name);
+  const clozable = state.tabs.filter((tab) => {
+    const hit = assignmentFor(tab.url);
+    return hit && hit.from === name && state.migrated[core.normalizeUrl(tab.url)];
+  });
+
+  if (isTarget) {
+    spaces.counts.textContent = `сюда переезжает ${incoming.length}, из них ещё не открыто ${pending.length}`;
+    spaces.pullIn.textContent = `Открыть здесь ${pending.length}`;
+    spaces.pullIn.hidden = false;
+    spaces.pushOut.hidden = true;
+    spaces.pullIn.disabled = !pending.length;
+  } else {
+    spaces.counts.textContent = `отсюда уезжает ${outgoing.length}, готово к закрытию ${clozable.length}`;
+    spaces.pushOut.textContent = `Закрыть перенесённые ${clozable.length}`;
+    spaces.pullIn.hidden = true;
+    spaces.pushOut.hidden = false;
+    spaces.pushOut.disabled = !clozable.length;
+  }
+}
+
+async function pullIn() {
+  const name = spaces.pick.value;
+  const pending = state.plan.assignments.filter(
+    (a) => a.toName === name && a.from !== name && !state.migrated[core.normalizeUrl(a.url)]
+  );
+  if (!pending.length) return;
+  setStatus(`Открываю ${pending.length} вкладок в «${name}»…`);
+  for (const item of pending) {
+    await api.tabs.create({ url: item.url, active: false });
+    state.migrated[core.normalizeUrl(item.url)] = Date.now();
+  }
+  await api.storage.local.set({ migrated: state.migrated });
+  setStatus(`Открыто ${pending.length} вкладок. Теперь зайди в исходное пространство и закрой перенесённые.`);
+  await loadTabs();
+  renderSpaces();
+}
+
+async function pushOut() {
+  const name = spaces.pick.value;
+  const targets = state.tabs.filter((tab) => {
+    const hit = assignmentFor(tab.url);
+    return hit && hit.from === name && state.migrated[core.normalizeUrl(tab.url)] && !tab.pinned;
+  });
+  if (!targets.length) return;
+  setStatus(`Закрываю ${targets.length} перенесённых вкладок…`);
+  await api.tabs.remove(targets.map((tab) => tab.id));
+  for (const tab of targets) delete state.migrated[core.normalizeUrl(tab.url)];
+  await api.storage.local.set({ migrated: state.migrated });
+  setStatus(`Закрыто ${targets.length}. Эти вкладки живут в своих новых пространствах.`);
+  await loadTabs();
+  renderSpaces();
+}
+
+spaces.pick.addEventListener("change", () => {
+  state.space = spaces.pick.value;
+  api.storage.local.set({ space: state.space });
+  renderSpaces();
+});
+spaces.pullIn.addEventListener("click", pullIn);
+spaces.pushOut.addEventListener("click", pushOut);
+
 el.byModel.addEventListener("click", runModel);
 el.byDomain.addEventListener("click", runDomains);
 el.apply.addEventListener("click", applyPlan);
 el.clear.addEventListener("click", clearPlan);
 el.closeDupes.addEventListener("click", closeDuplicates);
 
-loadTabs();
+loadTabs().then(loadPlan);

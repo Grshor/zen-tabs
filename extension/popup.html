@@ -36,6 +36,17 @@
       <ul id="leftoverList"></ul>
     </section>
 
+    <section id="spaces" hidden>
+      <h2>Пространства (план переносов)</h2>
+      <p id="planStatus" class="hint"></p>
+      <label class="pick">Текущее пространство: <select id="spacePick"></select></label>
+      <p id="spaceCounts" class="hint"></p>
+      <div class="actions">
+        <button id="pullIn" class="primary">Открыть здесь</button>
+        <button id="pushOut">Закрыть перенесённые</button>
+      </div>
+    </section>
+
     <footer>
       <label><input type="checkbox" id="skipPinned" checked /> не трогать закреплённые</label>
       <span id="meta"></span>

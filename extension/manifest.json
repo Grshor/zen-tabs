@@ -9,7 +9,7 @@
       "strict_min_version": "139.0"
     }
   },
-  "permissions": ["tabs", "tabGroups", "http://127.0.0.1:8091/*"],
+  "permissions": ["tabs", "tabGroups", "storage", "http://127.0.0.1:8091/*", "http://127.0.0.1:8093/*"],
   "browser_action": {
     "default_popup": "popup.html",
     "default_title": "Разбор вкладок"
