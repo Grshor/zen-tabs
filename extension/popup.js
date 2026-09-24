@@ -247,7 +247,7 @@ async function loadPlan() {
     spaces.pick.value = state.space || guessSpace();
     renderSpaces();
   } catch (error) {
-    spaces.status.textContent = `план не найден: ${error?.message || error}. Посчитать: lm plan`;
+    spaces.status.textContent = `план не найден: ${error?.message || error}. Запусти раздачу: lm plan-serve`;
     spaces.pullIn.disabled = true;
     spaces.pushOut.disabled = true;
   }

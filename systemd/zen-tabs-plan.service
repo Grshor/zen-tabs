@@ -1,0 +1,13 @@
+[Unit]
+Description=Раздача плана пространств Zen для расширения «Разбор вкладок»
+Documentation=file:///home/gwushor/Projects/zen-tabs/README.md
+
+[Service]
+Type=simple
+WorkingDirectory=%h/.cache/zen-tabs
+ExecStart=/usr/bin/python3 -m http.server 8093 --bind 127.0.0.1
+Restart=on-failure
+RestartSec=2
+
+[Install]
+WantedBy=default.target
