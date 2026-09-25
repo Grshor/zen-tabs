@@ -312,17 +312,30 @@ function guessSpace() {
   return sourceName;
 }
 
+/**
+ * Вкладки текущего пространства, которые уже открыты в новом, — их и закрываем.
+ * Опор две: openedIn из плана (посчитан по файлу сессии Zen) и отметки самого
+ * расширения, проставленные при «Открыть здесь N». Одной памяти расширения мало:
+ * её хранилище теряется, если расширение поставить заново.
+ */
+function closableTabs(name) {
+  return state.tabs.filter((tab) => {
+    if (tab.pinned) return false;
+    const hit = assignmentFor(tab.url);
+    if (!hit) return false;
+    if (hit.toName === name) return false; // тут вкладка и должна жить
+    if ((hit.openedIn || []).some((space) => space !== name)) return true;
+    return Boolean(state.migrated[core.normalizeUrl(tab.url)]);
+  });
+}
+
 function renderSpaces() {
   if (!state.plan) return;
   const name = spaces.pick.value;
   const isTarget = state.plan.spaces.some((s) => s.name === name);
   const incoming = state.plan.assignments.filter((a) => a.toName === name && a.from !== name);
   const pending = incoming.filter((a) => !state.migrated[core.normalizeUrl(a.url)]);
-  const outgoing = state.plan.assignments.filter((a) => a.from === name && a.toName && a.toName !== name);
-  const clozable = state.tabs.filter((tab) => {
-    const hit = assignmentFor(tab.url);
-    return hit && hit.from === name && state.migrated[core.normalizeUrl(tab.url)];
-  });
+  const closable = closableTabs(name);
 
   if (isTarget) {
     spaces.counts.textContent = `сюда переезжает ${incoming.length}, из них ещё не открыто ${pending.length}`;
@@ -331,11 +344,14 @@ function renderSpaces() {
     spaces.pushOut.hidden = true;
     spaces.pullIn.disabled = !pending.length;
   } else {
-    spaces.counts.textContent = `отсюда уезжает ${outgoing.length}, готово к закрытию ${clozable.length}`;
-    spaces.pushOut.textContent = `Закрыть перенесённые ${clozable.length}`;
+    // Считаем по факту, а не по записям плана: после удаления старых пространств Zen
+    // сваливает их вкладки сюда, и «откуда» у них совсем другое.
+    const rest = state.tabs.length - closable.length;
+    spaces.counts.textContent = `вкладок ${state.tabs.length}: уже живут в новых пространствах ${closable.length}, останется ${rest}`;
+    spaces.pushOut.textContent = `Закрыть перенесённые ${closable.length}`;
     spaces.pullIn.hidden = true;
     spaces.pushOut.hidden = false;
-    spaces.pushOut.disabled = !clozable.length;
+    spaces.pushOut.disabled = !closable.length;
   }
 }
 
@@ -383,18 +399,20 @@ async function pullIn() {
 
 async function pushOut() {
   const name = spaces.pick.value;
-  const targets = state.tabs.filter((tab) => {
-    const hit = assignmentFor(tab.url);
-    return hit && hit.from === name && state.migrated[core.normalizeUrl(tab.url)] && !tab.pinned;
-  });
+  const targets = closableTabs(name);
   if (!targets.length) return;
   setStatus(`Закрываю ${targets.length} перенесённых вкладок…`);
   await api.tabs.remove(targets.map((tab) => tab.id));
-  for (const tab of targets) delete state.migrated[core.normalizeUrl(tab.url)];
-  await api.storage.local.set({ migrated: state.migrated });
+  // Отметки не снимаем: они значат «эта ссылка уже открыта в новом пространстве»,
+  // и по ним же считается, что ещё предстоит открыть. Снять — значит предложить
+  // открыть её заново.
   await loadTabs();
   renderSpaces();
-  setStatus(`Закрыто ${targets.length}. Эти вкладки живут в своих новых пространствах.`);
+  const rest = state.tabs.length;
+  setStatus(
+    `Закрыто ${targets.length}. Эти вкладки живут в своих новых пространствах. ` +
+      (rest ? `В этом пространстве осталось ${rest} вкладок.` : "Пространство пустое — можно удалять.")
+  );
 }
 
 spaces.pick.addEventListener("change", () => {

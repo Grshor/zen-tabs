@@ -68,7 +68,10 @@
       "to": 2,
       "toName": "медиа",
       "group": "музыка",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "https://www.youtube.com/shorts/zQkXKmlqsf0",
@@ -77,7 +80,10 @@
       "to": 2,
       "toName": "медиа",
       "group": "музыка",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "The Most Overpowered Characters From Rick And Morty Universe - YouTube",
@@ -86,7 +92,10 @@
       "to": 2,
       "toName": "медиа",
       "group": "сериалы",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "The Episode That Solved Stewie's Paradox - YouTube",
@@ -95,7 +104,10 @@
       "to": 2,
       "toName": "медиа",
       "group": "сериалы",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "The Amazing Digital Circus: Official Lo-Fi Hiphop Album - YouTube",
@@ -104,7 +116,10 @@
       "to": 2,
       "toName": "медиа",
       "group": "музыка",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "List of episodes | Rick and Morty Wiki | Fandom",
@@ -113,7 +128,10 @@
       "to": 2,
       "toName": "медиа",
       "group": "сериалы",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "Phineas and Ferb Did The ONE Thing Most Shows Won't Do - YouTube",
@@ -122,7 +140,10 @@
       "to": 2,
       "toName": "медиа",
       "group": "сериалы",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "How Sicario's Cinematography Conveys Moral Corruption - YouTube",
@@ -131,7 +152,10 @@
       "to": 2,
       "toName": "медиа",
       "group": "сериалы",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "Everything Gooseworx Revealed After Episode 9 + Details You Missed - YouTube",
@@ -140,7 +164,10 @@
       "to": 2,
       "toName": "медиа",
       "group": "сериалы",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "Batman: Arkham Knight vs LEGO Batman: Legacy of the Dark Knight | Direct Comparison - YouTube",
@@ -149,14 +176,17 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "сравнение игр",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "virgin punk at DuckDuckGo",
       "url": "https://duckduckgo.com/?t=ffab&q=virgin%20punk&atb=v494-1&ia=web",
       "from": "movies & series",
-      "to": 0,
-      "toName": null,
+      "to": 2,
+      "toName": "медиа",
       "group": "прочее",
       "pinned": true
     },
@@ -164,8 +194,8 @@
       "title": "The Nice Guys at DuckDuckGo",
       "url": "https://duckduckgo.com/?t=ffab&q=The%20Nice%20Guys%20&atb=v494-1&ia=web",
       "from": "movies & series",
-      "to": 0,
-      "toName": null,
+      "to": 2,
+      "toName": "медиа",
       "group": "прочее",
       "pinned": true
     },
@@ -173,8 +203,8 @@
       "title": "The Man From Nowhere at DuckDuckGo",
       "url": "https://duckduckgo.com/?t=ffab&q=The%20Man%20From%20Nowhere&atb=v494-1&ia=web",
       "from": "movies & series",
-      "to": 0,
-      "toName": null,
+      "to": 2,
+      "toName": "медиа",
       "group": "прочее",
       "pinned": true
     },
@@ -185,14 +215,17 @@
       "to": 2,
       "toName": "медиа",
       "group": "сериалы",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "spark of tomorrow at DuckDuckGo",
       "url": "https://duckduckgo.com/?t=ffab&q=spark%20of%20tomorrow&atb=v494-1&ia=web",
       "from": "movies & series",
-      "to": 0,
-      "toName": null,
+      "to": 2,
+      "toName": "медиа",
       "group": "прочее",
       "pinned": true
     },
@@ -203,7 +236,10 @@
       "to": 6,
       "toName": "чтение и арт",
       "group": "манга и комиксы",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "чтение и арт"
+      ]
     },
     {
       "title": "moltbook at DuckDuckGo",
@@ -212,7 +248,10 @@
       "to": 6,
       "toName": "чтение и арт",
       "group": "книги и авторы",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "чтение и арт"
+      ]
     },
     {
       "title": "Matt Fraction's Batman at DuckDuckGo",
@@ -221,7 +260,10 @@
       "to": 6,
       "toName": "чтение и арт",
       "group": "манга и комиксы",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "чтение и арт"
+      ]
     },
     {
       "title": "dragon heart girl shadow diver смотреть at DuckDuckGo",
@@ -230,7 +272,10 @@
       "to": 6,
       "toName": "чтение и арт",
       "group": "манга и комиксы",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "чтение и арт"
+      ]
     },
     {
       "title": "Фильм «Бегущий человек» at DuckDuckGo",
@@ -239,7 +284,10 @@
       "to": 2,
       "toName": "медиа",
       "group": "сериалы",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "уйти красиво смотреть онлайн at DuckDuckGo",
@@ -248,7 +296,10 @@
       "to": 2,
       "toName": "медиа",
       "group": "сериалы",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "супермен и лоис смотреть at DuckDuckGo",
@@ -257,7 +308,10 @@
       "to": 2,
       "toName": "медиа",
       "group": "сериалы",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "приговорённый быть героем смотреть at DuckDuckGo",
@@ -266,7 +320,10 @@
       "to": 2,
       "toName": "медиа",
       "group": "сериалы",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "Подозрительные лица (1995) at DuckDuckGo",
@@ -275,7 +332,10 @@
       "to": 2,
       "toName": "медиа",
       "group": "сериалы",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "Король Стейтен-Айленда at DuckDuckGo",
@@ -284,7 +344,10 @@
       "to": 2,
       "toName": "медиа",
       "group": "сериалы",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "запрещённый крот at DuckDuckGo",
@@ -293,7 +356,10 @@
       "to": 2,
       "toName": "медиа",
       "group": "сериалы",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "граф монте кристо сериал at DuckDuckGo",
@@ -302,7 +368,10 @@
       "to": 2,
       "toName": "медиа",
       "group": "сериалы",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "битва за битвой at DuckDuckGo",
@@ -311,7 +380,10 @@
       "to": 2,
       "toName": "медиа",
       "group": "сериалы",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "«Дракула» (2025) at DuckDuckGo",
@@ -320,7 +392,10 @@
       "to": 2,
       "toName": "медиа",
       "group": "сериалы",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "An Incredible Finale - Rick and Morty S9 Finale Breakdown - YouTube",
@@ -329,7 +404,10 @@
       "to": 2,
       "toName": "медиа",
       "group": "сериалы",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "Absolute Batman just learned his true origin and it's much worse than he thought - YouTube",
@@ -338,7 +416,10 @@
       "to": 2,
       "toName": "медиа",
       "group": "сериалы",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "Сериал Побег (1-5 сезон) смотреть онлайн бесплатно в хорошем качестве",
@@ -347,7 +428,10 @@
       "to": 2,
       "toName": "медиа",
       "group": "сериалы",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "Здравствуй, мир мультфильм, 2019, дата выхода трейлеры актеры отзывы описание на Кинопоиске",
@@ -356,7 +440,10 @@
       "to": 2,
       "toName": "медиа",
       "group": "сериалы",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "urben1680/bevy_oozlum",
@@ -365,7 +452,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "инструменты",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "Online GLB File Viewer",
@@ -374,7 +464,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "инструменты",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "moonshine_view/examples/shapes.rs at main · Zeenobit/moonshine_view",
@@ -383,7 +476,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "инструменты",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "moonshine_save/examples/army.rs at 6e788b96d1eef6ae75987951c945de11789e8ede · Zeenobit/moonshine_save",
@@ -392,7 +488,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "инструменты",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "Loading GLTF/assets binary directly from memory · bevyengine/bevy · Discussion #13602",
@@ -401,7 +500,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "инструменты",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "Intro: Your Data - Unofficial Bevy Cheat Book",
@@ -410,7 +512,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "инструменты",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "Repository search results",
@@ -419,7 +524,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "прочее",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "zkat/big-brain: Utility AI library for the Bevy game engine",
@@ -428,7 +536,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "инструменты",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "rparrett/bevy_pipelines_ready: Bevy plugin for tracking render pipeline status.",
@@ -437,7 +548,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "инструменты",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "splo/vscode-bevy-inspector: Bevy Inspector Visual Studio Code Extension",
@@ -446,7 +560,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "инструменты",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "rewin123/space_editor: bevy prefab editor",
@@ -455,7 +572,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "инструменты",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "nicopap/ui-navigation: A UI navigation algoritm implemented in rust currently targeting the bevy ui library",
@@ -464,7 +584,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "инструменты",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "KyosukeIshizu1008/berryscode: Native IDE for the Bevy game engine, built in Bevy + Rust. Scene editor, ECS inspector, AI agent, mobile build, Godot project read-only viewer.",
@@ -473,7 +596,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "инструменты",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "kaosat-dev/Blenvy: Bevy Code & Blender addon for a simple workflow to add & edit Bevy components in Blender",
@@ -482,7 +608,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "инструменты",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "jakobhellermann/bevy-inspector-egui: Inspector plugin for the bevy game engine",
@@ -491,7 +620,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "инструменты",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "jakobhellermann/bevy_mod_debugdump",
@@ -500,7 +632,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "инструменты",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "jakobhellermann/bevy_editor_pls: In-App editor tools for bevy applications",
@@ -509,7 +644,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "инструменты",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "dogoap/crates/bevy_dogoap/README.md at master · victorb/dogoap",
@@ -518,7 +656,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "инструменты",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "bevy glb at DuckDuckGo",
@@ -527,7 +668,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "инструменты",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "bevy 0.19 message observer at DuckDuckGo",
@@ -536,7 +680,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "инструменты",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "bevy::ecs::observer - Rust",
@@ -545,7 +692,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "прочее",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "bevy_reflect - Rust",
@@ -554,7 +704,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "прочее",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "Bevy Power, Godot Workflow: The Ultimate Game Engine Combo? - YouTube",
@@ -563,7 +716,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "инструменты",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "Bevy Assets",
@@ -572,7 +728,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "инструменты",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "Animated Mesh",
@@ -581,7 +740,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "инструменты",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "How to Set Up Your First Split Keyboard for Ergonomics - YouTube",
@@ -590,7 +752,10 @@
       "to": 9,
       "toName": "железо и самоделки",
       "group": "клавиатуры",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "железо и самоделки"
+      ]
     },
     {
       "title": "【再販開始！】人気沸騰中の2万円台で買える無線分割キーボード「Cornix LP」｜Nape Proとの組み合わせがおすすめ | クラフトデイズ",
@@ -599,7 +764,10 @@
       "to": 9,
       "toName": "железо и самоделки",
       "group": "клавиатуры",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "железо и самоделки"
+      ]
     },
     {
       "title": "Cornix LP Split Wireless Keyboard купить с доставкой | Geekboards",
@@ -608,7 +776,10 @@
       "to": 9,
       "toName": "железо и самоделки",
       "group": "клавиатуры",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "железо и самоделки"
+      ]
     },
     {
       "title": "Механическая клавиатура Корникс с регулируемым наклоном, полная программируемость VIAL, офис и работа — купить в интернет-магазине DiffSoul на Яндекс Маркете",
@@ -617,7 +788,10 @@
       "to": 9,
       "toName": "железо и самоделки",
       "group": "клавиатуры",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "железо и самоделки"
+      ]
     },
     {
       "title": "Кабели",
@@ -626,7 +800,10 @@
       "to": 9,
       "toName": "железо и самоделки",
       "group": "прочее",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "железо и самоделки"
+      ]
     },
     {
       "title": "(8) using mouse with split keyboard - YouTube",
@@ -644,7 +821,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "ии",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "Two Minute Papers - YouTube",
@@ -653,7 +833,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "ии",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "AI Search - YouTube",
@@ -662,7 +845,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "ии",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "Yann LeCun's $1B Bet Against LLMs [Part 2] - YouTube",
@@ -671,7 +857,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "ии",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "Yann LeCun's $1B Bet Against LLMs [Part 1] - YouTube",
@@ -680,7 +869,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "ии",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "This physics idea might be the next generation of machine learning - YouTube",
@@ -689,7 +881,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "физика",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "https://www.youtube.com/watch?v=Ry3YyG22EUc",
@@ -698,7 +893,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "ии",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "The Inevitable Horror Of Biological Computing - YouTube",
@@ -707,7 +905,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "биология",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "The AI Hatred is Miss-placed - YouTube",
@@ -716,7 +917,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "ии",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "Sources for AI Agents Building Civilization - Google Документы",
@@ -725,7 +929,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "ии",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "Scientists Found A Better Language For AI Agents - YouTube",
@@ -734,7 +941,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "ии",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "No, AI is NOT like the DotCom bubble. Don't believe their B.S. - YouTube",
@@ -743,7 +953,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "ии",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "Neural networks - YouTube",
@@ -752,7 +965,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "ии",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "Most AI has amnesia. Here's the fix - YouTube",
@@ -761,7 +977,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "ии",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "Free Machine Learning Trading Course | 27 Lessons | LSE",
@@ -770,7 +989,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "ии",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "Mercury 2: The First Diffusion Model That 'Thinks'\" - YouTube",
@@ -779,7 +1001,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "ии",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "LLMs Are Databases - So Query Them - YouTube",
@@ -788,7 +1013,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "ии",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "App unavailable in region | Claude by Anthropic",
@@ -797,7 +1025,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "прочее",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "How Top Engineers Stop AI Agents From Writing Slop - YouTube",
@@ -806,7 +1037,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "ии",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "How Chinese DoorDash Is Making Better LLMs Than Meta - YouTube",
@@ -815,7 +1049,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "ии",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "Hidden Symmetry: Why Deep Learning is Possible - YouTube",
@@ -824,7 +1061,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "ии",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "Google Did The Impossible - YouTube",
@@ -833,7 +1073,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "ии",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "Egonex-AI/Understand-Anything: Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
@@ -842,7 +1085,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "прочее",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "Оптимизация в ML",
@@ -851,7 +1097,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "ии",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "Everyone Is Chasing This Technology - YouTube",
@@ -860,7 +1109,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "ии",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "Did Anthropic just kill the indie hacker...? - YouTube",
@@ -869,7 +1121,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "ии",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "DeepSeek Just Added Parameters Where There Were None - YouTube",
@@ -878,7 +1133,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "ии",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "Computer Science in the AI Era - YouTube",
@@ -887,7 +1145,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "ии",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "Combinator Table Creation (Claude Opus 4.5 vs Gemini 3 Pro vs GPT 5.2 Codex vs Composer-1) - YouTube",
@@ -896,7 +1157,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "ии",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "Attention Residuals: Kimi AI's Elegant LLM Architecture Breakthrough - YouTube",
@@ -905,7 +1169,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "ии",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "Бимбо-обзор на \"Технологическую республику\" от CEO Palantir - YouTube",
@@ -914,7 +1181,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "ии",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "БЕСПЛАТНО ПОДКЛЮЧАЕМ API DEEPSEEK V4 К HERMES AGENT - YouTube",
@@ -923,7 +1193,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "ии",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "5 pinterest alternatives for artists ♡ NO AI, NO ADS - YouTube",
@@ -932,7 +1205,10 @@
       "to": 6,
       "toName": "чтение и арт",
       "group": "арт и референсы",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "чтение и арт"
+      ]
     },
     {
       "title": "(8) The Most SELFISH Power System in Manga - YouTube",
@@ -941,7 +1217,10 @@
       "to": 6,
       "toName": "чтение и арт",
       "group": "манга и комиксы",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "чтение и арт"
+      ]
     },
     {
       "title": "Marginal 1 - Read Marginal Chapter 1 Online - Page 5",
@@ -950,7 +1229,10 @@
       "to": 6,
       "toName": "чтение и арт",
       "group": "манга и комиксы",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "чтение и арт"
+      ]
     },
     {
       "title": "nhentai: hentai doujinshi and manga, page 3",
@@ -959,7 +1241,10 @@
       "to": 6,
       "toName": "чтение и арт",
       "group": "манга и комиксы",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "чтение и арт"
+      ]
     },
     {
       "title": "High Elf no Joou to Hime ga Seihanzaisha o Korashimeru-teki na Yatsu » nhentai",
@@ -968,7 +1253,10 @@
       "to": 6,
       "toName": "чтение и арт",
       "group": "манга и комиксы",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "чтение и арт"
+      ]
     },
     {
       "title": "NewManga",
@@ -977,7 +1265,10 @@
       "to": 6,
       "toName": "чтение и арт",
       "group": "манга и комиксы",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "чтение и арт"
+      ]
     },
     {
       "title": "The Weathering Continent | Manga Wiki | Fandom",
@@ -986,7 +1277,10 @@
       "to": 6,
       "toName": "чтение и арт",
       "group": "манга и комиксы",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "чтение и арт"
+      ]
     },
     {
       "title": "Многотомное издание «Кольца Гига (манга) / Gyges no Futari» — 4 книги | Читать лучшие подборки на Livelib",
@@ -995,7 +1289,10 @@
       "to": 6,
       "toName": "чтение и арт",
       "group": "книги и авторы",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "чтение и арт"
+      ]
     },
     {
       "title": "we come here to starve BOOK at DuckDuckGo",
@@ -1004,7 +1301,10 @@
       "to": 6,
       "toName": "чтение и арт",
       "group": "книги и авторы",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "чтение и арт"
+      ]
     },
     {
       "title": "Daemons of the Shadow Realm at DuckDuckGo",
@@ -1013,7 +1313,10 @@
       "to": 6,
       "toName": "чтение и арт",
       "group": "книги и авторы",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "чтение и арт"
+      ]
     },
     {
       "title": "Я попал в мир ужасов с системой богатства (Bắt Đầu Với Trăm Vạn Minh Tệ) | ManGO",
@@ -1022,7 +1325,10 @@
       "to": 6,
       "toName": "чтение и арт",
       "group": "манга и комиксы",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "чтение и арт"
+      ]
     },
     {
       "title": "Читать Манга ГромГромГром 1 глава 1 том бесплатно онлайн на русском языке — ReManga",
@@ -1031,7 +1337,10 @@
       "to": 6,
       "toName": "чтение и арт",
       "group": "манга и комиксы",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "чтение и арт"
+      ]
     },
     {
       "title": "Заковать Дракона в цепи. Подтверждение возраста.",
@@ -1040,7 +1349,10 @@
       "to": 6,
       "toName": "чтение и арт",
       "group": "манга и комиксы",
-      "pinned": true
+      "pinned": true,
+      "openedIn": [
+        "чтение и арт"
+      ]
     },
     {
       "title": "vinnylarouge/jevlike",
@@ -1049,7 +1361,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "Enovara/omarchy-teach-voxtype: Omarchy plugin: teach voxtype dictation how to spell the words it gets wrong",
@@ -1058,7 +1373,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "T-The-Coder/more-weather: Detailed weather for the Omarchy bar: official warnings, rain nowcast, animated radar, wind map, air quality and a standalone app",
@@ -1067,7 +1385,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "dannyowelch/Omarchy64: Omarchy bar plugin that launches VICE for Commodore 64 games",
@@ -1076,7 +1397,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "djmenig/OmaDash: A malleable HUD/dashboard plugin for Omarchy.",
@@ -1085,7 +1409,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "danteregis/omarchy-quick-convert: Omarchy bar widget: type a conversion, get the answer. Currencies with live rates plus units.",
@@ -1094,7 +1421,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "1990wn/omarchy-graph: Theme-aware graphing calculator for the Omarchy shell",
@@ -1103,7 +1433,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "janooh37-hue/omapalette: Point it at your wallpaper collection: an Omarchy bar widget that matches themes to wallpapers in OKLab and generates new themes from any colour",
@@ -1112,7 +1445,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "Snackwrap/omarchy-spacewx: Space Weather plugin for Omarchy | Kp index + 3-day forecast | NOAA aurora oval on a polar map | solar wind, flares, HF conditions",
@@ -1121,7 +1457,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "CodeFoundryZA/omarchy-posture: Webcam posture monitor for the Omarchy shell. Turns the bar red and notifies you when you start slouching. Runs fully offline and never stores images.",
@@ -1130,7 +1469,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "yesmeck/OmaPets: Animated AI coding pets, alive in your Omarchy bar.",
@@ -1139,7 +1481,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "ccdwyer/omarchy-snitch: Little Snitch for Omarchy: live per-app outbound connection map with country flags and one-key firewall blocks.",
@@ -1148,7 +1493,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "tomdavenport/omaphone: A private walkie-talkie in your Omarchy 4 bar — push-to-talk voice, encrypted chat, and small group rooms over Tor.",
@@ -1157,7 +1505,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "metaphorics/omp-plugin-dynamic-system-prompt: Scales system-prompt guidance to the model reading it: an oh-my-pi plugin that appends a capability-tuned directive block chosen by model family, version, and tier.",
@@ -1166,7 +1517,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "NymVPN: The world's most private decentralized VPN | Nym",
@@ -1175,7 +1529,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "Nym",
@@ -1184,7 +1541,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "(2) Is Frontier Class Local AI Finally Practical? - YouTube",
@@ -1193,7 +1553,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "ии",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "(2) Build Powerful Local Coding Agent on Budget GPU with Llama.cpp and Pi - YouTube",
@@ -1211,7 +1574,10 @@
       "to": 2,
       "toName": "медиа",
       "group": "музыка",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "(2) y8y.systems - YouTube",
@@ -1220,7 +1586,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "ии",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "(2) Kai - YouTube",
@@ -1229,7 +1598,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "ии",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "Introduction - Bonsai",
@@ -1238,7 +1610,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "PrismML — Introducing Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
@@ -1247,7 +1622,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "ии",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "karamble/omarchy-omabudget: Local-first personal finance for Omarchy: accounts, a ledger, budgets and bills, stored on this machine and nowhere else",
@@ -1256,7 +1634,10 @@
       "to": 8,
       "toName": "здоровье, работа, деньги",
       "group": "финансы",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "здоровье, работа, деньги"
+      ]
     },
     {
       "title": "Better Displays Pro | Omarchy Plugins",
@@ -1265,7 +1646,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "dragosol/omarchy-better-displays: Better Displays Pro for Omarchy: multi-monitor settings on one wide panel. EDID-accurate native resolution and refresh rate, scale, rotation, arrangement, workspaces, and layouts remembered automatically.",
@@ -1274,7 +1658,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "Аренда VPS от $3 — NVMe и DDoS-защита",
@@ -1283,7 +1670,10 @@
       "to": 7,
       "toName": "покупки и быт",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "покупки и быт"
+      ]
     },
     {
       "title": "Best Local LLM Models 2026: Benchmarks & Use Cases",
@@ -1292,7 +1682,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "ии",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "(5) purrverse. - YouTube",
@@ -1301,7 +1694,10 @@
       "to": 2,
       "toName": "медиа",
       "group": "музыка",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "Infinite-Parameter LLMs Explained (Cambridge, 2026) | explainx.ai Blog | explainx.ai",
@@ -1310,7 +1706,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "ии",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "Bonsai 2 27B: Near-Lossless Ternary Model (2026) | explainx.ai Blog | explainx.ai",
@@ -1319,7 +1718,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "ии",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "Home - TypeSafe AI",
@@ -1328,7 +1730,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "ии",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "Member of Technical Staff, Backend/Platform @ TypeSafe AI",
@@ -1337,7 +1742,10 @@
       "to": 8,
       "toName": "здоровье, работа, деньги",
       "group": "карьера",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "здоровье, работа, деньги"
+      ]
     },
     {
       "title": "AnythingLLM — On-device AI for productivity | Local & Private",
@@ -1346,7 +1754,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "ии",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "Manifesto - TypeSafe AI",
@@ -1355,7 +1766,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "ии",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "Топовые GMKtec для ии на Ryzen Ai Max+ 395 купить в Москве по низкой цене | Электроника | Авито (8446944368)",
@@ -1364,7 +1778,10 @@
       "to": 9,
       "toName": "железо и самоделки",
       "group": "электроника",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "железо и самоделки"
+      ]
     },
     {
       "title": "GLM Coding Plan — AI Coding Powered by GLM-5.3, GLM-5.3-Flash, GLM-5.2 & GLM-5-Turbo for Agents & IDEs",
@@ -1373,7 +1790,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "(1) Robots Just Had Their GPT-3 Moment - YouTube",
@@ -1382,7 +1802,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "ии",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "(1) 11 CRAZY Backend Project Ideas That Pushes Your Limits - YouTube",
@@ -1400,7 +1823,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "(1) How To Setup VoiceMeeter Banana 2026 (VoiceMeeter Banana Beginners Tutorial Guide 2026) - YouTube",
@@ -1427,7 +1853,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "ии",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "Space Lobby Playlist - YouTube",
@@ -1436,7 +1865,10 @@
       "to": 2,
       "toName": "медиа",
       "group": "музыка",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "plantasia. - YouTube",
@@ -1445,7 +1877,10 @@
       "to": 2,
       "toName": "медиа",
       "group": "музыка",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "(12) NISSAN | Liquid DnB / Jungle Mix - YouTube",
@@ -1454,7 +1889,10 @@
       "to": 2,
       "toName": "медиа",
       "group": "музыка",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "Magdalena Bay – Killshot Lyrics | Genius Lyrics",
@@ -1463,7 +1901,10 @@
       "to": 2,
       "toName": "медиа",
       "group": "музыка",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "Left Ear Duvet, Right Ear Linger - YouTube",
@@ -1472,7 +1913,10 @@
       "to": 2,
       "toName": "медиа",
       "group": "музыка",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "Frank Sinatra & Count Basie – Fly Me to the Moon Lyrics | Genius Lyrics",
@@ -1481,7 +1925,10 @@
       "to": 2,
       "toName": "медиа",
       "group": "музыка",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "(18) Enjoy the Silence - Depeche Mode | Karaoke Version | KaraFun - YouTube",
@@ -1490,7 +1937,10 @@
       "to": 2,
       "toName": "медиа",
       "group": "музыка",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "(18) Depeche Mode - Enjoy the Silence (Official Video) - YouTube",
@@ -1499,7 +1949,10 @@
       "to": 2,
       "toName": "медиа",
       "group": "музыка",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "(18) Fly Me To The Moon (2008 Remastered) - YouTube",
@@ -1508,7 +1961,10 @@
       "to": 2,
       "toName": "медиа",
       "group": "музыка",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "(18) all you need is DIGITAL DOPAMINE 夜 (atmospheric jungle mix) - YouTube",
@@ -1517,7 +1973,10 @@
       "to": 2,
       "toName": "медиа",
       "group": "музыка",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "World Monitor - Real-Time Global Intelligence Dashboard",
@@ -1535,7 +1994,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "Кратко про Raft и Paxos: путь к надежным распределенным базам данных / Хабр",
@@ -1544,7 +2006,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "серверы",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "Поиск по картинкам и фото — Яндекс Картинки",
@@ -1553,7 +2018,10 @@
       "to": 6,
       "toName": "чтение и арт",
       "group": "арт и референсы",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "чтение и арт"
+      ]
     },
     {
       "title": "omp \"external thinking\" setting at DuckDuckGo",
@@ -1562,7 +2030,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "age of innocence toskovat купить at DuckDuckGo",
@@ -1571,7 +2042,10 @@
       "to": 7,
       "toName": "покупки и быт",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "покупки и быт"
+      ]
     },
     {
       "title": "(22) Your AI setup needs one of these - YouTube",
@@ -1580,7 +2054,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "ии",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "(22) How Quant Finance Made Me $1.6M Trading Prop Firms - YouTube",
@@ -1589,7 +2066,10 @@
       "to": 8,
       "toName": "здоровье, работа, деньги",
       "group": "финансы",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "здоровье, работа, деньги"
+      ]
     },
     {
       "title": "latency book at DuckDuckGo",
@@ -1598,7 +2078,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "серверы",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "count loc git powershell at DuckDuckGo",
@@ -1607,7 +2090,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "(3) purrple phase. - YouTube",
@@ -1616,7 +2102,10 @@
       "to": 2,
       "toName": "медиа",
       "group": "музыка",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "(28) BrowJey - Twitch",
@@ -1625,7 +2114,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "(76)Китайский чип в 478 раз быстрее видеокарты — что это значит | TikTok",
@@ -1643,7 +2135,10 @@
       "to": 9,
       "toName": "железо и самоделки",
       "group": "гаджеты",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "железо и самоделки"
+      ]
     },
     {
       "title": "(6) Gen Z Just Had a Dangerous Spiritual Awakening - YouTube",
@@ -1652,7 +2147,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "(6) Jev Creator: Why RLCD beats RLHF - YouTube",
@@ -1661,7 +2159,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "ии",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "(6) MiniCPM5 - Just How Good Can a 1B Model Be? - YouTube",
@@ -1670,7 +2171,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "ии",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "(3) ДВА ПАДЕНИЯ НА 110КМ/Ч - БЕЗУМНЫЙ ЗАЕЗД В КОЛУМБИИ - YouTube",
@@ -1679,7 +2183,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "(3) I Tried To Build a Robot Like Boston Dynamics With Isaac Sim - YouTube",
@@ -1697,7 +2204,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "ии",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "(22) The End of VRAM-Bottlenecked LLMs: Qwen3.8-Flash-Next - YouTube",
@@ -1733,7 +2243,10 @@
       "to": 9,
       "toName": "железо и самоделки",
       "group": "diy",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "железо и самоделки"
+      ]
     },
     {
       "title": "(17) ТЕБЕ НУЖНА ЭТА ШТУКА - YouTube",
@@ -1742,7 +2255,10 @@
       "to": 9,
       "toName": "железо и самоделки",
       "group": "diy",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "железо и самоделки"
+      ]
     },
     {
       "title": "(17) This $150 Robot Arm Is The Best Way to Start With Advanced Robotics - YouTube",
@@ -1760,7 +2276,10 @@
       "to": 9,
       "toName": "железо и самоделки",
       "group": "diy",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "железо и самоделки"
+      ]
     },
     {
       "title": "(17) Why Walking Robots Are So Hard to Build - YouTube",
@@ -1778,7 +2297,10 @@
       "to": 9,
       "toName": "железо и самоделки",
       "group": "diy",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "железо и самоделки"
+      ]
     },
     {
       "title": "(2) YouTube",
@@ -1796,7 +2318,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "наука",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "(14) All 18 Legendary Wizards The Harry Potter Movies Never Fully Explained - YouTube",
@@ -1805,7 +2330,10 @@
       "to": 6,
       "toName": "чтение и арт",
       "group": "арт и референсы",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "чтение и арт"
+      ]
     },
     {
       "title": "(14) The Algorithm That Makes Ray Tracing 10x Faster - YouTube",
@@ -1823,7 +2351,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "(56) \"Dude I'm Broke\" Why Is My Data Worth Harvesting? - YouTube",
@@ -1832,7 +2363,10 @@
       "to": 8,
       "toName": "здоровье, работа, деньги",
       "group": "финансы",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "здоровье, работа, деньги"
+      ]
     },
     {
       "title": "(15) 1968 Predicted Every Modern Tech Problem | TheStandup - YouTube",
@@ -1841,7 +2375,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "наука",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "(17) Why Do So Many Myths Say “DON’T LOOK BACK”? - YouTube",
@@ -1850,7 +2387,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "мышление",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "(2) TanStack Did It Again... They Fixed Charts - YouTube",
@@ -1868,7 +2408,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "саморазвитие",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "(14) The Boondocks Taught You How To Get Rich (But Nobody Noticed) - YouTube",
@@ -1877,7 +2420,10 @@
       "to": 8,
       "toName": "здоровье, работа, деньги",
       "group": "финансы",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "здоровье, работа, деньги"
+      ]
     },
     {
       "title": "(15) The $106 Trillion Infrastructure Opportunity - YouTube",
@@ -1886,7 +2432,10 @@
       "to": 8,
       "toName": "здоровье, работа, деньги",
       "group": "финансы",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "здоровье, работа, деньги"
+      ]
     },
     {
       "title": "fanfa.dev - Animated, Interactive Mermaid Diagrams",
@@ -1895,7 +2444,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "The Unreasonable Effectiveness of Constructive Data Modeling - Alexis King | SSW 2026 - YouTube",
@@ -1949,7 +2501,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "документация",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "My methodology for hacking hardened systems - YouTube",
@@ -1958,7 +2513,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "наука",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "(2) Синдром Кая: как мы растопили сердца топ-менеджеров и обучили их кибербезопасности - YouTube",
@@ -1967,7 +2525,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "саморазвитие",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "Parse - Data from Anywhere",
@@ -1985,7 +2546,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "серверы",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "OmaGAWD | Omarchy Plugins",
@@ -1994,7 +2558,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "серверы",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "Sesame | Omarchy Plugins",
@@ -2003,7 +2570,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "серверы",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "Omabeam | Omarchy Plugins",
@@ -2012,7 +2582,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "серверы",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "OpenBMB/MiniCPM-Desk-Pet: a local-first desktop pet powered by MiniCPM5",
@@ -2021,7 +2594,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "код",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "Mixing of moiré-surface and bulk states in graphite - PMC",
@@ -2030,7 +2606,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "биология",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "Schemer: On-device Free-form Text to Structured JSON",
@@ -2039,7 +2618,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "модели",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "OpenBMB/MiniCPM: MiniCPM5: SOTA on-device LLMs, small yet powerful.",
@@ -2048,7 +2630,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "код",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "MiniCPM5 - a openbmb Collection",
@@ -2057,7 +2642,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "код",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "Needle3_Quickstart.ipynb - Colab",
@@ -2066,7 +2654,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "наука",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "Copy of Needle3_Quickstart.ipynb - Colab",
@@ -2075,7 +2666,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "наука",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "BibekBhusal0/omarchy-better-media: MPRIS media control service with cliamp headless support",
@@ -2084,7 +2678,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "код",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "majesticio/omarchy-cliamped-plugin: Theme-aware CLIAMP control center and spectrum widget for Omarchy",
@@ -2093,7 +2690,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "код",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "tomasWade/omarchy-glm-quota: Thermometer-style GLM quota bar widget for Omarchy: weekly fill + time caret, popup with 5-hour and weekly breakdown",
@@ -2102,7 +2702,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "код",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "Grshor/lamplife",
@@ -2111,7 +2714,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "инструменты",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "AMD Ryzen AI Max+ 395 (Strix Halo) for Local LLMs in 2026: 128GB Unified Memory, 100 t/s on 30B Models, and Whether It Beats a Discrete GPU",
@@ -2120,7 +2726,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "инфраструктура",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "Desert Ant Labs: On-device AI models and SDKs",
@@ -2129,7 +2738,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "код",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "alexei-led/ccgram: Telegram ↔ tmux/herdr/agterm bridge for Claude Code, Codex CLI, and Pi Agent. Monitor output, respond to prompts, manage parallel sessions. Control AI coding agents from your phone.",
@@ -2138,7 +2750,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "код",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "Malleable software: Restoring user agency in a world of locked-down apps",
@@ -2147,7 +2762,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "саморазвитие",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "johnsideserf/omarchy-h4x0r",
@@ -2156,7 +2774,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "код",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "younesdahdouh/Hyprland-Keybind-manager: Rebind Hyprland and Herdr keys by pressing them. No config editing, no collisions.",
@@ -2165,7 +2786,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "инструменты",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "Sophontic — Models",
@@ -2174,7 +2798,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "ии",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "graphrag book at DuckDuckGo",
@@ -2183,7 +2810,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "ии",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "microsoft/graphrag: A modular graph-based Retrieval-Augmented Generation (RAG) system",
@@ -2192,7 +2822,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "ии",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "GraphRAG: The Definitive Guide [Book]",
@@ -2201,7 +2834,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "ии",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "Artificial Analysis Intelligence Index v4.1.1 | Artificial Analysis",
@@ -2210,7 +2846,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "наука",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "Lakebed Docs",
@@ -2219,7 +2858,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "документация",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "mattpocock/skills: Skills for Real Engineers. Straight from my .agents directory.",
@@ -2228,7 +2870,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "код",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "Why Futhark?",
@@ -2237,7 +2882,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "код",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "unfairgaps — ayanbekdos/unfairgaps-os",
@@ -2246,7 +2894,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "danielgtaylor/huma: Huma REST/HTTP API Framework for Golang with OpenAPI 3.1",
@@ -2255,7 +2906,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "код",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "philippgille/go-wasm: Examples of how to work with WebAssembly and WASI in Go",
@@ -2264,7 +2918,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "код",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "Paths for Referring to an Item in the Module Tree - The Rust Programming Language",
@@ -2273,7 +2930,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "код",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "Issues · zed-industries/zed",
@@ -2282,7 +2942,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "код",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "Introduction | templ docs",
@@ -2291,7 +2954,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "код",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "goadesign/goa: Design-first Go framework that generates API code, documentation, and clients. Define once in an elegant DSL, deploy as HTTP and gRPC services with zero drift between code and docs.",
@@ -2300,7 +2966,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "код",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "dafny-lang/dafny: Dafny is a verification-aware programming language",
@@ -2309,7 +2978,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "код",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "AyanbekDos/unfairgaps-os: Find real business pain points from court filings, regulatory fines, and enforcement data. 4 pipelines. Works in any country. One API key.",
@@ -2318,7 +2990,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "a-h/templ: A language for writing HTML user interfaces in Go.",
@@ -2327,7 +3002,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "код",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "Getting Started | bigpowers",
@@ -2345,7 +3023,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "инструменты",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "Купить маленькую колонку в магазине Dr.Head, цена на мини колонки в Москве с доставкой по России",
@@ -2354,7 +3035,10 @@
       "to": 7,
       "toName": "покупки и быт",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "покупки и быт"
+      ]
     },
     {
       "title": "Купить полочную акустику Mission LX-3D Surround MKII Walnut по цене 27880 руб. в Москве с доставкой по России в магазине Dr.Head",
@@ -2363,7 +3047,10 @@
       "to": 7,
       "toName": "покупки и быт",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "покупки и быт"
+      ]
     },
     {
       "title": "(81)Dante 🗡️ (@the.radiant.studios) | TikTok",
@@ -2372,7 +3059,10 @@
       "to": 2,
       "toName": "медиа",
       "group": "мемы",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "ReidenXerx/omarchy-omagram: Omagram: an unofficial Telegram client that lives in your Omarchy desktop. Reply from the bar with voice, round video or stickers, know who wrote by a sound of their own, act on notifications. Built on TDLib; not affiliated with Telegram.",
@@ -2381,7 +3071,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "инструменты",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "Spotify – Web Player",
@@ -2390,7 +3083,10 @@
       "to": 2,
       "toName": "медиа",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "Лила - игра самопознания. Играть онлайн и офлайн.",
@@ -2399,7 +3095,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "Поиск на карте Циан в Московской области - Продажа и аренда квартир, новостройки, дома и участки",
@@ -2417,7 +3116,10 @@
       "to": 7,
       "toName": "покупки и быт",
       "group": "аренда",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "покупки и быт"
+      ]
     },
     {
       "title": "Аренда двухкомнатной квартиры 60м² Шелепихинское ш., 19, Москва, ЦАО, р-н Пресненский МЦК Шелепиха - база ЦИАН, объявление 334070314",
@@ -2426,7 +3128,10 @@
       "to": 7,
       "toName": "покупки и быт",
       "group": "аренда",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "покупки и быт"
+      ]
     },
     {
       "title": "Сдам двухкомнатную квартиру 58м² просп. Мира, 38, Москва, ЦАО, р-н Мещанский м. Проспект Мира - база ЦИАН, объявление 278514638",
@@ -2435,7 +3140,10 @@
       "to": 7,
       "toName": "покупки и быт",
       "group": "аренда",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "покупки и быт"
+      ]
     },
     {
       "title": "Снять квартиру во всех регионах на длительный срок | Цены на аренду квартир во всех регионах | Авито",
@@ -2444,7 +3152,10 @@
       "to": 7,
       "toName": "покупки и быт",
       "group": "аренда",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "покупки и быт"
+      ]
     },
     {
       "title": "2-к. квартира, 60 м², 3/5 эт. в аренду Москве | Снять квартиру | Авито (8273820989)",
@@ -2453,7 +3164,10 @@
       "to": 7,
       "toName": "покупки и быт",
       "group": "аренда",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "покупки и быт"
+      ]
     },
     {
       "title": "2-к. квартира, 45 м², 21/25 эт. в аренду Москве | Снять квартиру | Авито (8481764529)",
@@ -2462,7 +3176,10 @@
       "to": 7,
       "toName": "покупки и быт",
       "group": "аренда",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "покупки и быт"
+      ]
     },
     {
       "title": "2-к. квартира, 54 м², 20/28 эт. в аренду Москве | Снять квартиру | Авито (8200618546)",
@@ -2471,7 +3188,10 @@
       "to": 7,
       "toName": "покупки и быт",
       "group": "аренда",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "покупки и быт"
+      ]
     },
     {
       "title": "2-к. квартира, 55 м², 5/10 эт. в аренду Москве | Снять квартиру | Авито (8252138964)",
@@ -2480,7 +3200,10 @@
       "to": 7,
       "toName": "покупки и быт",
       "group": "аренда",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "покупки и быт"
+      ]
     },
     {
       "title": "(51) Is Frontier Class Local AI Finally Practical? - YouTube",
@@ -2489,7 +3212,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "ии",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "atomcraft mods at DuckDuckGo",
@@ -2498,7 +3224,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "Davidxap/omarchy-zen: Syncs Omarchy's Pywal palette into Zen Browser — pure CSS, no extension. Omarchy plugin service.",
@@ -2507,7 +3236,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "инструменты",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "Otoru | Omarchy Plugins",
@@ -2516,7 +3248,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "инструменты",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "ussego/otoru: Downloads media on demand via yt-dlp, right from your Omarchy bar.",
@@ -2525,7 +3260,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "инструменты",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "Antibot Captcha",
@@ -2534,7 +3272,10 @@
       "to": 7,
       "toName": "покупки и быт",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "покупки и быт"
+      ]
     },
     {
       "title": "Похоже, нет соединения",
@@ -2543,7 +3284,10 @@
       "to": 7,
       "toName": "покупки и быт",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "покупки и быт"
+      ]
     },
     {
       "title": "Похоже, нет соединения",
@@ -2552,7 +3296,10 @@
       "to": 7,
       "toName": "покупки и быт",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "покупки и быт"
+      ]
     },
     {
       "title": "Antibot Captcha",
@@ -2561,7 +3308,10 @@
       "to": 7,
       "toName": "покупки и быт",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "покупки и быт"
+      ]
     },
     {
       "title": "Сумка Визажиста Стилиста купить на OZON по низкой цене (1469438881)",
@@ -2570,7 +3320,10 @@
       "to": 7,
       "toName": "покупки и быт",
       "group": "покупка",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "покупки и быт"
+      ]
     },
     {
       "title": "однажды в мексике at DuckDuckGo",
@@ -2579,7 +3332,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "16 Best Free CRM Software in 2026 | CRM.org",
@@ -2588,7 +3344,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "Pear — Peer-to-Peer Application Runtime",
@@ -2597,7 +3356,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "документация",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "https://fasie.ru/programs/programma-start/",
@@ -2606,7 +3368,10 @@
       "to": 8,
       "toName": "здоровье, работа, деньги",
       "group": "финансы",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "здоровье, работа, деньги"
+      ]
     },
     {
       "title": "(49) Why No One Can Build Anything | The Ultimate Trick of Human Progress - YouTube",
@@ -2615,7 +3380,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "мышление",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "(6) Making a Game I Actually Enjoy | Brickwork Devlog - YouTube",
@@ -2624,7 +3392,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "(6) The Horror Of Dune's Spaceships - YouTube",
@@ -2633,7 +3404,10 @@
       "to": 2,
       "toName": "медиа",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "(6) DeepSeek Harness — Конец эпохи Claude Code и Codex? - YouTube",
@@ -2651,7 +3425,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "The New \"Cool\" Ideology Is Crazier Than You Think - YouTube",
@@ -2660,7 +3437,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "мышление",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "A Guide to Organize Your Workspace – How to Declutter - YouTube",
@@ -2669,7 +3449,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "саморазвитие",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "Органайзер для косметики — купить по низкой цене на Яндекс Маркете",
@@ -2687,7 +3470,10 @@
       "to": 6,
       "toName": "чтение и арт",
       "group": "арт и референсы",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "чтение и арт"
+      ]
     },
     {
       "title": "Пенал Ретро кожа，Пенал ручной работы, 6 шт. в упаковке，Ящик для хранения авторучки — купить в интернет-магазине lishuo на Яндекс Маркете",
@@ -2696,7 +3482,10 @@
       "to": 6,
       "toName": "чтение и арт",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "чтение и арт"
+      ]
     },
     {
       "title": "Доска-органайзер маркерная, доска для записей, настольная доска для офиса и дома + маркер внутри — купить в интернет-магазине WSQINSHOP на Яндекс Маркете",
@@ -2705,7 +3494,10 @@
       "to": 6,
       "toName": "чтение и арт",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "чтение и арт"
+      ]
     },
     {
       "title": "(2) Why L is Smarter Than Every Anime Character - YouTube",
@@ -2714,7 +3506,10 @@
       "to": 2,
       "toName": "медиа",
       "group": "аниме",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "When You Shatter A Shounen Hero. - YouTube",
@@ -2723,7 +3518,10 @@
       "to": 2,
       "toName": "медиа",
       "group": "аниме",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "When Modern Anime Meets Old School Writing - YouTube",
@@ -2732,7 +3530,10 @@
       "to": 2,
       "toName": "медиа",
       "group": "аниме",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "Magi: Adventures of Sinbad was Special - YouTube",
@@ -2741,7 +3542,10 @@
       "to": 2,
       "toName": "медиа",
       "group": "аниме",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "How Kagurabachi Went From Meme to Masterpiece - YouTube",
@@ -2750,7 +3554,10 @@
       "to": 2,
       "toName": "медиа",
       "group": "мемы",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "zudi taisen zodiac war at DuckDuckGo",
@@ -2759,7 +3566,10 @@
       "to": 2,
       "toName": "медиа",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "Санда - смотреть аниме на anineko",
@@ -2768,7 +3578,10 @@
       "to": 2,
       "toName": "медиа",
       "group": "аниме",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "übel blatt смотреть at DuckDuckGo",
@@ -2777,7 +3590,10 @@
       "to": 2,
       "toName": "медиа",
       "group": "аниме",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "to you eternal at DuckDuckGo",
@@ -2786,7 +3602,10 @@
       "to": 2,
       "toName": "медиа",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "outlaw star ание at DuckDuckGo",
@@ -2795,7 +3614,10 @@
       "to": 2,
       "toName": "медиа",
       "group": "аниме",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "nagabe at DuckDuckGo",
@@ -2804,7 +3626,10 @@
       "to": 2,
       "toName": "медиа",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "MARRIAGETOXIN смотреть at DuckDuckGo",
@@ -2813,7 +3638,10 @@
       "to": 2,
       "toName": "медиа",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "legend of hei 2 at DuckDuckGo",
@@ -2822,7 +3650,10 @@
       "to": 2,
       "toName": "медиа",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "HELLO WORLD anime at DuckDuckGo",
@@ -2831,7 +3662,10 @@
       "to": 2,
       "toName": "медиа",
       "group": "аниме",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "Haibane Renme at DuckDuckGo",
@@ -2840,7 +3674,10 @@
       "to": 2,
       "toName": "медиа",
       "group": "аниме",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "Клинок зла / Übel Blatt - 1 серия | Youkai Studio - смотреть видео онлайн от «Youkai Studio» в хорошем качестве, бесплатно опубликованное 10 сентября 2025 года в 15:47:46 00:23:40.",
@@ -2849,7 +3686,10 @@
       "to": 2,
       "toName": "медиа",
       "group": "аниме",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "chishiya at DuckDuckGo",
@@ -2858,7 +3698,10 @@
       "to": 2,
       "toName": "медиа",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "\"сумерки за концом света\" аниме at DuckDuckGo",
@@ -2867,7 +3710,10 @@
       "to": 2,
       "toName": "медиа",
       "group": "аниме",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "Anime That Don't Waste Your Time. - YouTube",
@@ -2876,7 +3722,10 @@
       "to": 2,
       "toName": "медиа",
       "group": "аниме",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "Тайтл, обогнавший время – Игра и аниме «Эксперименты Лэйн» - YouTube",
@@ -2885,7 +3734,10 @@
       "to": 2,
       "toName": "медиа",
       "group": "аниме",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "Клеймор - 2 серия",
@@ -2894,7 +3746,10 @@
       "to": 2,
       "toName": "медиа",
       "group": "сериалы",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "Для тебя, Бессмертный - сезон 1 серия 7 / To Your Eternity - смотреть видео онлайн от «Анимешечка» в хорошем качестве, бесплатно опубликованное 14 марта 2025 года в 8:44:03 00:25:02.",
@@ -2903,7 +3758,10 @@
       "to": 2,
       "toName": "медиа",
       "group": "аниме",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "Брачный токсин (ТВ Сериал) - в озвучке AnimeVost, Flowers Media, A...",
@@ -2921,7 +3779,10 @@
       "to": 2,
       "toName": "медиа",
       "group": "аниме",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "https://myi.animespirit.ru/anime/rs/series-rus/16029-plachushhij-prizrak-na-pensii-chast-2-nageki-no.html",
@@ -2930,7 +3791,10 @@
       "to": 2,
       "toName": "медиа",
       "group": "аниме",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "https://nya.animeon.me/anime/izgnannyy-reinkarnirovannyy-tyazhelyy-rycar-ne-imeet-sebe-ravnyh-v-znaniyah-igry-59741",
@@ -2939,7 +3803,10 @@
       "to": 2,
       "toName": "медиа",
       "group": "аниме",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "Изгнанный реинкарнированный тяжёлый рыцарь не имеет себе равных в знаниях игры смотреть все серии подряд на Джутсу TV",
@@ -2948,7 +3815,10 @@
       "to": 2,
       "toName": "медиа",
       "group": "аниме",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "Дракон Раджа смотреть аниме все серии подряд",
@@ -2966,7 +3836,10 @@
       "to": 2,
       "toName": "медиа",
       "group": "аниме",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "Stan - $2,844,652 last 30 days | TrustMRR",
@@ -2975,7 +3848,10 @@
       "to": 8,
       "toName": "здоровье, работа, деньги",
       "group": "финансы",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "здоровье, работа, деньги"
+      ]
     },
     {
       "title": "This Paper Could Change How You Invest - YouTube",
@@ -2984,7 +3860,10 @@
       "to": 8,
       "toName": "здоровье, работа, деньги",
       "group": "инвестиции",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "здоровье, работа, деньги"
+      ]
     },
     {
       "title": "Someone open-sourced a hedge fund (53k stars on GitHub) - YouTube",
@@ -2993,7 +3872,10 @@
       "to": 8,
       "toName": "здоровье, работа, деньги",
       "group": "инвестиции",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "здоровье, работа, деньги"
+      ]
     },
     {
       "title": "So... What Happened To Novo Nordisk - YouTube",
@@ -3002,7 +3884,10 @@
       "to": 8,
       "toName": "здоровье, работа, деньги",
       "group": "инвестиции",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "здоровье, работа, деньги"
+      ]
     },
     {
       "title": "So we’re betting on everything now? - YouTube",
@@ -3011,7 +3896,10 @@
       "to": 8,
       "toName": "здоровье, работа, деньги",
       "group": "финансы",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "здоровье, работа, деньги"
+      ]
     },
     {
       "title": "Retail Solutions – Вместе дешевле",
@@ -3020,7 +3908,10 @@
       "to": 7,
       "toName": "покупки и быт",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "покупки и быт"
+      ]
     },
     {
       "title": "(2) Kafka TITAN — Crypto Intelligence Screener",
@@ -3029,7 +3920,10 @@
       "to": 8,
       "toName": "здоровье, работа, деньги",
       "group": "финансы",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "здоровье, работа, деньги"
+      ]
     },
     {
       "title": "How to Tell When a Stock is Cheap/Expensive (Masterclass in Stock Valuation) - YouTube",
@@ -3038,7 +3932,10 @@
       "to": 8,
       "toName": "здоровье, работа, деньги",
       "group": "финансы",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "здоровье, работа, деньги"
+      ]
     },
     {
       "title": "(2) Ставки На Всё - Polymarket и Фермы Спорта России [netstalkers] - YouTube",
@@ -3047,7 +3944,10 @@
       "to": 8,
       "toName": "здоровье, работа, деньги",
       "group": "финансы",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "здоровье, работа, деньги"
+      ]
     },
     {
       "title": "(22) How \"Selfish Teamwork\" Fixed Two Genres At Once - YouTube",
@@ -3056,7 +3956,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "саморазвитие",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "Сколько я заработал в Steam на игре, которую написал AI. - YouTube",
@@ -3065,7 +3968,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "Tantan - YouTube",
@@ -3074,7 +3980,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "(8) Casually Explained: The Dunning-Kruger Effect - YouTube",
@@ -3083,7 +3992,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "мышление",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "Criticality Found Emerging in Lab-Grown Human Brains - YouTube",
@@ -3092,7 +4004,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "ии",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "We've Been Testing For Consciousness Wrong - YouTube",
@@ -3110,7 +4025,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "саморазвитие",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "(8) Casually Explained - YouTube",
@@ -3119,7 +4037,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "tag:\"crossdressing\" tag:\"nakadashi\" -tag:\"yaoi\" - Search - nhentai",
@@ -3128,7 +4049,10 @@
       "to": 6,
       "toName": "чтение и арт",
       "group": "манга и комиксы",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "чтение и арт"
+      ]
     },
     {
       "title": "tag:\"tomgirl\" tag:\"sole male\" - Search - nhentai",
@@ -3137,7 +4061,10 @@
       "to": 6,
       "toName": "чтение и арт",
       "group": "манга и комиксы",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "чтение и арт"
+      ]
     },
     {
       "title": "Zenbu Gal na Nee-chan no Sei 4 » nhentai",
@@ -3146,7 +4073,10 @@
       "to": 6,
       "toName": "чтение и арт",
       "group": "манга и комиксы",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "чтение и арт"
+      ]
     },
     {
       "title": "Motome Ai | Desired Love » nhentai",
@@ -3155,7 +4085,10 @@
       "to": 6,
       "toName": "чтение и арт",
       "group": "манга и комиксы",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "чтение и арт"
+      ]
     },
     {
       "title": "(4) HEATHEN - Devlog 1 - YouTube",
@@ -3164,7 +4097,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "Roadmap | beta decay",
@@ -3173,7 +4109,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "https://www.youtube.com/@sora_sakurai_en/playlists",
@@ -3182,7 +4121,10 @@
       "to": 6,
       "toName": "чтение и арт",
       "group": "арт и референсы",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "чтение и арт"
+      ]
     },
     {
       "title": "(4) Teardown Engine Technical Dive [Stream Archive] - YouTube",
@@ -3191,7 +4133,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "инструменты",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "Voxel Streaming & Compression - YouTube",
@@ -3200,7 +4145,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "инструменты",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "virtual crt on windows nvidia at DuckDuckGo",
@@ -3209,7 +4157,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "mausimus/ShaderGlass: Overlay for running GPU shaders on top of Windows desktop and Wine",
@@ -3218,7 +4169,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "mausimus/ShaderBeam: Overlay for running BFI/CRT Beam Simulation shaders on Windows desktop",
@@ -3227,7 +4181,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "3d Lowpoli Casino Illustrations | Download vector on Unsplash",
@@ -3236,7 +4193,10 @@
       "to": 6,
       "toName": "чтение и арт",
       "group": "арт и референсы",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "чтение и арт"
+      ]
     },
     {
       "title": "I'm Making a NEW VOXEL RAYTRACING ENGINE (in Vulkan) | Devlog 0 - YouTube",
@@ -3245,7 +4205,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "инструменты",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "(4) The Mistake That Started Everything | Brickwork Devlog - YouTube",
@@ -3254,7 +4217,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "инструменты",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "Teardown Teardown",
@@ -3263,7 +4229,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "инструменты",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "Table of Contents · Game Programming Patterns",
@@ -3272,7 +4241,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "инструменты",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "3d lowpoli casino at DuckDuckGo",
@@ -3281,7 +4253,10 @@
       "to": 6,
       "toName": "чтение и арт",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "чтение и арт"
+      ]
     },
     {
       "title": "american fair style at DuckDuckGo",
@@ -3290,7 +4265,10 @@
       "to": 6,
       "toName": "чтение и арт",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "чтение и арт"
+      ]
     },
     {
       "title": "Networked Physics | Gaffer On Games",
@@ -3299,7 +4277,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "инструменты",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "Indie Game Genres & Subtractive Design - YouTube",
@@ -3308,7 +4289,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "I Studied How Guilty Gear Makes 3D Look Perfectly 2D - YouTube",
@@ -3317,7 +4301,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "I recreated Teardown's Voxel Graphics engine from scratch - YouTube",
@@ -3326,7 +4313,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "инструменты",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "I Built My Dream Game in 72 Hours — Assets by AI, Gameplay by Claude Code - YouTube",
@@ -3335,7 +4325,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "How 4 Artists Built a AAA World - YouTube",
@@ -3344,7 +4337,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "Favorite posts – How To Market A Game",
@@ -3353,7 +4349,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "Adding Heat simulation and Survival to my Micro Voxel Engine - YouTube",
@@ -3362,7 +4361,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "инструменты",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "Local AI isn't useless. I can prove it. - YouTube",
@@ -3371,7 +4373,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "ии",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "20 НОВЫХ ГРАДОСТРОИТЕЛЬНЫХ СИМУЛЯТОРОВ которые УЖЕ ВЫШЛИ в 2026! - YouTube",
@@ -3380,7 +4385,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "ЛИНЕЙНАЯ ТАКТИКА. ИСТОРИЯ ДЛЯ СДВГШНИКОВ. - YouTube",
@@ -3389,7 +4397,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "мышление",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "3D model Ultimate Casino Pack VR / AR / low-poly | CGTrader",
@@ -3398,7 +4409,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "LS49DG912SNXZA — купить по низкой цене на Яндекс Маркете",
@@ -3416,7 +4430,10 @@
       "to": 9,
       "toName": "железо и самоделки",
       "group": "гаджеты",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "железо и самоделки"
+      ]
     },
     {
       "title": "Gadgets For People Who Don't Trust The Government - YouTube",
@@ -3425,7 +4442,10 @@
       "to": 9,
       "toName": "железо и самоделки",
       "group": "гаджеты",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "железо и самоделки"
+      ]
     },
     {
       "title": "The ASML Replacement Nobody Saw Coming - YouTube",
@@ -3434,7 +4454,10 @@
       "to": 9,
       "toName": "железо и самоделки",
       "group": "электроника",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "железо и самоделки"
+      ]
     },
     {
       "title": "Silicon Is Over. Meet Its Successor - YouTube",
@@ -3443,7 +4466,10 @@
       "to": 9,
       "toName": "железо и самоделки",
       "group": "электроника",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "железо и самоделки"
+      ]
     },
     {
       "title": "https://www.kickstarter.com/projects/mecha-systems/mecha-comet-modular-linux-handheld-computer",
@@ -3452,7 +4478,10 @@
       "to": 9,
       "toName": "железо и самоделки",
       "group": "diy",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "железо и самоделки"
+      ]
     },
     {
       "title": "nrfbox 2.5.0 at DuckDuckGo",
@@ -3461,7 +4490,10 @@
       "to": 9,
       "toName": "железо и самоделки",
       "group": "электроника",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "железо и самоделки"
+      ]
     },
     {
       "title": "Exynos — Википедия",
@@ -3470,7 +4502,10 @@
       "to": 9,
       "toName": "железо и самоделки",
       "group": "электроника",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "железо и самоделки"
+      ]
     },
     {
       "title": "samsung \"LS49DG912SNXZA\" купить at DuckDuckGo",
@@ -3479,7 +4514,10 @@
       "to": 9,
       "toName": "железо и самоделки",
       "group": "клавиатуры",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "железо и самоделки"
+      ]
     },
     {
       "title": "Extropic at DuckDuckGo",
@@ -3488,7 +4526,10 @@
       "to": 9,
       "toName": "железо и самоделки",
       "group": "электроника",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "железо и самоделки"
+      ]
     },
     {
       "title": "China Just Built What TSMC Said Was Impossible - YouTube",
@@ -3497,7 +4538,10 @@
       "to": 9,
       "toName": "железо и самоделки",
       "group": "электроника",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "железо и самоделки"
+      ]
     },
     {
       "title": "But How does A Petabyte fit in a Flash Drive ??? - YouTube",
@@ -3515,7 +4559,10 @@
       "to": 9,
       "toName": "железо и самоделки",
       "group": "гаджеты",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "железо и самоделки"
+      ]
     },
     {
       "title": "An Optical Navigation System Better Than GPS - YouTube",
@@ -3533,7 +4580,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "мышление",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "(6) РОССИЙСКИЙ ГЕЙМДЕВ ОБМАЗАЛСЯ НЕЙРОСЛОПОМ - YouTube",
@@ -3542,7 +4592,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "ии",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "The Ultimate Terraria FACTORY - Macrocosm Automation Update - YouTube",
@@ -3551,7 +4604,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "майнкрафт",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "zenith #靑 燕 - LOL STATS SEARCH | DEEPLOL.GG",
@@ -3560,7 +4616,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "Dark Souls Lore ► Explained! - YouTube",
@@ -3569,7 +4628,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "https://www.youtube.com/watch?v=CSum7HYBpMU",
@@ -3578,7 +4640,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "https://www.youtube.com/watch?v=DperqPCkfh0",
@@ -3587,7 +4652,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "https://www.youtube.com/shorts/m5vah6XnMhQ",
@@ -3596,7 +4664,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "Cat Mail Co. в Steam",
@@ -3605,7 +4676,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "https://www.youtube.com/shorts/cOcITKa4l6Q",
@@ -3614,7 +4688,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "https://www.youtube.com/watch?v=XKa6uh4wkCU",
@@ -3623,7 +4700,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "https://www.youtube.com/watch?v=emfTOX0XDZ8",
@@ -3632,7 +4712,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "indie morrowind is the game I never knew I needed - YouTube",
@@ -3641,7 +4724,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "https://www.youtube.com/watch?v=GeJiia1rS1Q",
@@ -3650,7 +4736,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "Сэкономьте 33% при покупке Minami Lane в Steam",
@@ -3659,7 +4748,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "Miquella's Loving Prison vs Ranni's Cold Freedom - YouTube",
@@ -3668,7 +4760,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "https://www.youtube.com/watch?v=H6r7i1LOY-s",
@@ -3677,7 +4772,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "A New Breed of Cosmic Horror - YouTube",
@@ -3686,7 +4784,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "мышление",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "No outsiders available anywhere on map :: Ancestors: The Humankind Odyssey Общие обсуждения",
@@ -3695,7 +4796,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "Night-Runners Game | Публикации | Patreon",
@@ -3722,7 +4826,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "My feed - itch.io",
@@ -3731,7 +4838,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "NIGHT-RUNNERS PRIVATE ALPHA by PLANET JEM",
@@ -3740,7 +4850,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "I played 12 Souls-Like games you've never heard of - YouTube",
@@ -3749,7 +4862,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "I Finished the Steel Ball Run Race in Real Life... and it changed my life. - YouTube",
@@ -3758,7 +4874,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "SpectralPack/Talisman: A mod to enhance high-scoring runs",
@@ -3767,7 +4886,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "blazingulag/Prism: Prism is a content mod that aims to enrich the Balatro experience while maintaining the vanilla feel",
@@ -3776,7 +4898,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "Games That Are Beyond Comparison - YouTube",
@@ -3785,7 +4910,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "Fighter's Destiny - The most UNIQUE fighting game ever - YouTube",
@@ -3794,7 +4922,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "Factorio - Mathematics of Quality. - YouTube",
@@ -3803,7 +4934,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "forza horizon 6 best tuning at DuckDuckGo",
@@ -3812,7 +4946,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "Coachless",
@@ -3821,7 +4958,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "Удивительный рогалик про шизофрению и мочу - YouTube",
@@ -3830,7 +4970,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "Скрытый сюжет Темных Душ. Фрампт и Каас Всегда были заодно. - YouTube",
@@ -3839,7 +4982,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "ModelArk-Coding-Plan",
@@ -3848,7 +4994,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "Other tools | ModelArk | BytePlus",
@@ -3857,7 +5006,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "terraform-code/lib/bio.py at master · graviaDaemon/terraform-code",
@@ -3866,7 +5018,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "SSD - купить по низкой цене на Яндекс Маркете",
@@ -3875,7 +5030,10 @@
       "to": 7,
       "toName": "покупки и быт",
       "group": "покупка",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "покупки и быт"
+      ]
     },
     {
       "title": "Комоды и тумбы для спальни купить с доставкой по России по выгодной цене | интернет-магазин EllipseFurniture",
@@ -3884,7 +5042,10 @@
       "to": 7,
       "toName": "покупки и быт",
       "group": "покупка",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "покупки и быт"
+      ]
     },
     {
       "title": "智谱丨BigModel 平台",
@@ -3893,7 +5054,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "ии",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "智谱丨BigModel 平台",
@@ -3902,7 +5066,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "ии",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "Hire Top Remote Software Developers for Full-Time Positions",
@@ -3911,7 +5078,10 @@
       "to": 8,
       "toName": "здоровье, работа, деньги",
       "group": "карьера",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "здоровье, работа, деньги"
+      ]
     },
     {
       "title": "Careers: find your place in Nebius",
@@ -3920,7 +5090,10 @@
       "to": 8,
       "toName": "здоровье, работа, деньги",
       "group": "карьера",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "здоровье, работа, деньги"
+      ]
     },
     {
       "title": "(26) Can Japan Attract Global Talent? - YouTube",
@@ -3929,7 +5102,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "(26) How We Solved Agent Building — Andrew Qu, Vercel - YouTube",
@@ -3938,7 +5114,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "Читаем, почему IT в РФ хуже чем на западе - YouTube",
@@ -3947,7 +5126,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "Why UGLY Always Wins - YouTube",
@@ -3956,7 +5138,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "Why Too Much Knowledge Makes You Insane - YouTube",
@@ -3965,7 +5150,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "Why Some Things Just Look Beautiful - YouTube",
@@ -3974,7 +5162,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "Why Gen Z Culture Is Basically Medieval China - YouTube",
@@ -3983,7 +5174,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "What Lenin Understood about Organizing (that many Leftists still don't) - YouTube",
@@ -3992,7 +5186,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "философия",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "This Is Boring But It Will Make You Scary Intelligent - YouTube",
@@ -4001,7 +5198,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "мышление",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "They Stopped Using Guilt On Men. Here's What They're Using Now. - YouTube",
@@ -4010,7 +5210,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "The Weird Fallacy Collectivists Unknowingly Commit - YouTube",
@@ -4019,7 +5222,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "философия",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "The ULTIMATE Guide to Improving THINKING (Complete Category Breakdown) - YouTube",
@@ -4028,7 +5234,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "мышление",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "Integral Theory",
@@ -4037,7 +5246,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "философия",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "The Revolution of Systems Thinking: Why It Changes Everything We Know About Reality - YouTube",
@@ -4046,7 +5258,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "мышление",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "The Midwit Tier List: Stupid things that \"Smart\" people believe. - YouTube",
@@ -4055,7 +5270,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "мышление",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "THE MAN WHO PROVED GOD REAL - YouTube",
@@ -4064,7 +5282,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "философия",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "THE HIGH LEVELS [of Thinking - and How they Make Things Better, Sometimes] - YouTube",
@@ -4073,7 +5294,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "мышление",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "The FBI and Socrates -- the Same 17 Sentences - YouTube",
@@ -4082,7 +5306,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "философия",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "The CRAZY Jesus Theory going VIRAL right now (and it might actually be true) - YouTube",
@@ -4091,7 +5318,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "философия",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "Integral theory - Wikipedia",
@@ -4100,7 +5330,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "философия",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "The Archons of Gnosticism Drawn and Explained - YouTube",
@@ -4109,7 +5342,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "философия",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "How to spot a rationalization - YouTube",
@@ -4118,7 +5354,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "мышление",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "Skyrim Understands Paganism Better Than Modern Pagans - YouTube",
@@ -4127,7 +5366,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "философия",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "Mansa Musa: The Biggest Fraud in History - YouTube",
@@ -4136,7 +5378,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "история идей",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "LEVELS [1: INTRODUCTION] - YouTube",
@@ -4145,7 +5390,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "How Parents Create Obedient Idiots | Nietzsche - YouTube",
@@ -4154,7 +5402,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "философия",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "How Did The World Get So Ugly? - YouTube",
@@ -4163,7 +5414,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "философия",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "go live a life you're actually interested in - YouTube",
@@ -4172,7 +5426,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "саморазвитие",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "Guide for Writing a Philosophy Paper - YouTube",
@@ -4181,7 +5438,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "философия",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "Do you REALLY understand dialectical materialism? - YouTube",
@@ -4190,7 +5450,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "философия",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "ницше сумерки идолов at DuckDuckGo",
@@ -4199,7 +5462,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "философия",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "ницше об истине и зле во внеморальном смысле at DuckDuckGo",
@@ -4208,7 +5474,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "философия",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "ницше греческое государство at DuckDuckGo",
@@ -4217,7 +5486,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "философия",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "ницше генеалогия морали at DuckDuckGo",
@@ -4226,7 +5498,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "философия",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "ницше антихристианин at DuckDuckGo",
@@ -4235,7 +5510,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "философия",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "College Aims | All Souls",
@@ -4244,7 +5522,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "Books by Itzhak Bentov & Philip K. Dick — RYM",
@@ -4253,7 +5534,10 @@
       "to": 6,
       "toName": "чтение и арт",
       "group": "книги и авторы",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "чтение и арт"
+      ]
     },
     {
       "title": "Durant Will - The Lessons of History.pdf",
@@ -4262,7 +5546,10 @@
       "to": 6,
       "toName": "чтение и арт",
       "group": "книги и авторы",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "чтение и арт"
+      ]
     },
     {
       "title": "Analyzing Jesus' Intelligence Reveals Something Interesting... - YouTube",
@@ -4271,7 +5558,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "философия",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "All Great Men Studied History the Same Way — Here's How - YouTube",
@@ -4280,7 +5570,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "история идей",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "A critique of pseudo-intellectual content - YouTube",
@@ -4289,7 +5582,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "Ха, никогда не врать это СИЛЬНЕЙШАЯ МАНИПУЛЯЦИЯ - YouTube",
@@ -4298,7 +5594,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "The Most Suppressed Books Explained in 25 Minutes - YouTube",
@@ -4307,7 +5606,10 @@
       "to": 6,
       "toName": "чтение и арт",
       "group": "видео и уроки",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "чтение и арт"
+      ]
     },
     {
       "title": "(11) Тир-лист продвинутых аргументов. 17 тактик, чтобы убедить кого угодно. - YouTube",
@@ -4316,7 +5618,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "Laboratory — Homo Deus Lab",
@@ -4325,7 +5630,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "ии",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "Почему загрузка сознания в машину - это ловушка | Cyberpunk 2077 - YouTube",
@@ -4334,7 +5642,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "ии",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "Об этом сейчас молчат! Лекция Юрия Безменова, бывшего сотрудника КГБ, Лос Анджелес, 1983 год. - YouTube",
@@ -4343,7 +5654,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "(11) Когда \"ДАЁШЬ МОЛОДЁЖЬ\" точнее учебников истории - YouTube",
@@ -4352,7 +5666,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "история идей",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "Семантика и намерение - DeepSeek",
@@ -4361,7 +5678,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "ии",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "(3) minecraft TFG montage - YouTube",
@@ -4370,7 +5690,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "майнкрафт",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "The simple one - Minecraft Modpack",
@@ -4379,7 +5702,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "майнкрафт",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "The Best Modpack You Never Played. - YouTube",
@@ -4388,7 +5714,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "сравнение игр",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "The 10 Create 6 Machines you need in your world! #minecraft #createmod #create6 - YouTube",
@@ -4397,7 +5726,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "майнкрафт",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "Steampunk Factory – Abfielder Premium Minecraft Downloads",
@@ -4406,7 +5738,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "майнкрафт",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "Minecraft punishes casual players. I made a datapack to fix it. - YouTube",
@@ -4415,7 +5750,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "майнкрафт",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "Minecraft Create Mod Iron Farm – Farm Iron in Style! - YouTube",
@@ -4424,7 +5762,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "майнкрафт",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "Minecolonies - The Desert City is Done! #22 - YouTube",
@@ -4433,7 +5774,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "майнкрафт",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "McBuild.org - Minecraft Buildings & Schematics",
@@ -4442,7 +5786,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "инструменты",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "I built a chemical plant for my starter base! ( with create ofc ) - YouTube",
@@ -4451,7 +5798,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "майнкрафт",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "How to Use Galvanized Steel to Make an XP Farm. - YouTube",
@@ -4460,7 +5810,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "майнкрафт",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "How to Automate Machines In Society Sunlit Valley 3.0 Minecraft - YouTube",
@@ -4469,7 +5822,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "майнкрафт",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "minecraft ideas for create factory at DuckDuckGo",
@@ -4478,7 +5834,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "майнкрафт",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "automatically port 1.19 modpack to 1.20 at DuckDuckGo",
@@ -4487,7 +5846,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "майнкрафт",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "Project Sacrifice - Minecraft Modpacks - CurseForge",
@@ -4496,7 +5858,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "сравнение игр",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "Forever Factory - Minecraft Modpacks - CurseForge",
@@ -4505,7 +5870,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "сравнение игр",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "CABIN: Create Above & Beyond In Newer - Minecraft Modpacks - CurseForge",
@@ -4514,7 +5882,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "сравнение игр",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "Chrono Dawn - Minecraft Mods - CurseForge",
@@ -4523,7 +5894,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "сравнение игр",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "Explore Hobble's Top Modpacks for Minecraft on CurseForge | CurseForge - Mods & Addons Leading Community",
@@ -4532,7 +5906,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "сравнение игр",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "Create Mod Logistics? #minecraft #gaming #createmod #moddedminecraft - YouTube",
@@ -4541,7 +5918,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "майнкрафт",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "Самый ОТБИТЫЙ мод в Майнкрафт, который никто не понял - YouTube",
@@ -4550,7 +5930,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "майнкрафт",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "[13] АБСОЛЮТ СИНЕМА | САМАЯ МАСШТАБНАЯ ВОЙНА | ГОРОД ПЯТЁРКИ ПРОТИВ СПК на ФРИКЛЕНД CREATE - YouTube",
@@ -4559,7 +5942,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "майнкрафт",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "(10) потоки риччи - YouTube",
@@ -4568,7 +5954,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "майнкрафт",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "Second Order Science - YouTube",
@@ -4577,7 +5966,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "наука",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "Client Challenge",
@@ -4586,7 +5978,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "наука",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "https://www.youtube.com/shorts/8ZhyYCSAEs4",
@@ -4595,7 +5990,10 @@
       "to": 2,
       "toName": "медиа",
       "group": "клипы",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "We're 99.9% sure this pattern is true, but no one can prove it - YouTube",
@@ -4604,7 +6002,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "ии",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "We were so wrong about time dilation (My mind is blown) - YouTube",
@@ -4622,7 +6023,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "ии",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "Video Compression and Codecs Explained - YouTube",
@@ -4631,7 +6035,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "The Most Counterintuitive Way to Build a Brain - YouTube",
@@ -4640,7 +6047,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "ии",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "the fastest way to learn math/physics is slower than you think - YouTube",
@@ -4649,7 +6059,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "физика",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "Scientists Have Figured Out How to Make Antigravity - YouTube",
@@ -4658,7 +6071,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "физика",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "How RADAR Actually Works. - YouTube",
@@ -4676,7 +6092,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "физика",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "Can Cellular Automata Simulate Light? - YouTube",
@@ -4685,7 +6104,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "ии",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "SaxonRah/HomeBlu_Lithography: HomeBlu Lithography: DIY Integrated Circuit Fabrication with Photon Sieves and Blu-ray Lasers",
@@ -4694,7 +6116,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "wavefunctioncollapse at DuckDuckGo",
@@ -4703,7 +6128,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "физика",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "ФЕРМЕНТ ДЛЯ РЕПЛИКАЦИИ ДНК at DuckDuckGo",
@@ -4712,7 +6140,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "биология",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "climb the Olympus Mons of math, physics, & finance - YouTube",
@@ -4721,7 +6152,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "физика",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "(10) Сферические порталы объясняют тёмную энергию? - YouTube",
@@ -4730,7 +6164,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "физика",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "naruto in akatsuki at DuckDuckGo",
@@ -4739,7 +6176,10 @@
       "to": 6,
       "toName": "чтение и арт",
       "group": "манга и комиксы",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "чтение и арт"
+      ]
     },
     {
       "title": "404 - WebNovel - Read Your Adventures | Fiction Stories | WebNovel Official",
@@ -4748,7 +6188,10 @@
       "to": 6,
       "toName": "чтение и арт",
       "group": "манга и комиксы",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "чтение и арт"
+      ]
     },
     {
       "title": "https://novelbin.com/b/the-regressor-and-the-blind-saint",
@@ -4757,7 +6200,10 @@
       "to": 6,
       "toName": "чтение и арт",
       "group": "манга и комиксы",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "чтение и арт"
+      ]
     },
     {
       "title": "JadeScrolls | Details",
@@ -4766,7 +6212,10 @@
       "to": 6,
       "toName": "чтение и арт",
       "group": "манга и комиксы",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "чтение и арт"
+      ]
     },
     {
       "title": "the black company book at DuckDuckGo",
@@ -4775,7 +6224,10 @@
       "to": 6,
       "toName": "чтение и арт",
       "group": "манга и комиксы",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "чтение и арт"
+      ]
     },
     {
       "title": "how to survive as the second son of the mage family at DuckDuckGo",
@@ -4784,7 +6236,10 @@
       "to": 6,
       "toName": "чтение и арт",
       "group": "манга и комиксы",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "чтение и арт"
+      ]
     },
     {
       "title": "i became a god in a horror game at DuckDuckGo",
@@ -4793,7 +6248,10 @@
       "to": 6,
       "toName": "чтение и арт",
       "group": "манга и комиксы",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "чтение и арт"
+      ]
     },
     {
       "title": "Heavy Knight reincarnation at DuckDuckGo",
@@ -4802,7 +6260,10 @@
       "to": 6,
       "toName": "чтение и арт",
       "group": "манга и комиксы",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "чтение и арт"
+      ]
     },
     {
       "title": "branch of reincarnation at DuckDuckGo",
@@ -4811,7 +6272,10 @@
       "to": 6,
       "toName": "чтение и арт",
       "group": "манга и комиксы",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "чтение и арт"
+      ]
     },
     {
       "title": "Я постоянно баловал рыцаря, которая ничего не знала, кроме сражений at DuckDuckGo",
@@ -4820,7 +6284,10 @@
       "to": 6,
       "toName": "чтение и арт",
       "group": "манга и комиксы",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "чтение и арт"
+      ]
     },
     {
       "title": "История, в которой каждая глава это прожитый год at DuckDuckGo",
@@ -4829,7 +6296,10 @@
       "to": 6,
       "toName": "чтение и арт",
       "group": "манга и комиксы",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "чтение и арт"
+      ]
     },
     {
       "title": "в начале игры я проснулся обнаружив портал в другой мир и меня насильно затянуло в зомби-апокалипсис at DuckDuckGo",
@@ -4838,7 +6308,10 @@
       "to": 6,
       "toName": "чтение и арт",
       "group": "манга и комиксы",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "чтение и арт"
+      ]
     },
     {
       "title": "yanvar — одежда и аксессуары бренда | Витрина",
@@ -4847,7 +6320,10 @@
       "to": 7,
       "toName": "покупки и быт",
       "group": "покупка",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "покупки и быт"
+      ]
     },
     {
       "title": "V05 купить в Москве от магазина Uniсorn",
@@ -4856,7 +6332,10 @@
       "to": 7,
       "toName": "покупки и быт",
       "group": "покупка",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "покупки и быт"
+      ]
     },
     {
       "title": "UNOGEM — одежда и аксессуары бренда | Витрина",
@@ -4865,7 +6344,10 @@
       "to": 7,
       "toName": "покупки и быт",
       "group": "покупка",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "покупки и быт"
+      ]
     },
     {
       "title": "Российские Бренды и Дизайнеры — 301 Брендов на Витрине",
@@ -4874,7 +6356,10 @@
       "to": 7,
       "toName": "покупки и быт",
       "group": "покупка",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "покупки и быт"
+      ]
     },
     {
       "title": "KOLEGOV — одежда и аксессуары бренда | Витрина",
@@ -4883,7 +6368,10 @@
       "to": 7,
       "toName": "покупки и быт",
       "group": "покупка",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "покупки и быт"
+      ]
     },
     {
       "title": "Neglassstore — одежда и аксессуары бренда | Витрина",
@@ -4892,7 +6380,10 @@
       "to": 7,
       "toName": "покупки и быт",
       "group": "покупка",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "покупки и быт"
+      ]
     },
     {
       "title": "Магазин Скромное обаяние (Александра) на Ярмарке Мастеров | Томск",
@@ -4901,7 +6392,10 @@
       "to": 7,
       "toName": "покупки и быт",
       "group": "покупка",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "покупки и быт"
+      ]
     },
     {
       "title": "hatred888 — одежда и аксессуары бренда | Витрина",
@@ -4910,7 +6404,10 @@
       "to": 7,
       "toName": "покупки и быт",
       "group": "покупка",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "покупки и быт"
+      ]
     },
     {
       "title": "https://www.freak-butik.ru/catalog/kollektsii/",
@@ -4919,7 +6416,10 @@
       "to": 7,
       "toName": "покупки и быт",
       "group": "покупка",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "покупки и быт"
+      ]
     },
     {
       "title": "detsroy — одежда и аксессуары бренда | Витрина",
@@ -4928,7 +6428,10 @@
       "to": 7,
       "toName": "покупки и быт",
       "group": "покупка",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "покупки и быт"
+      ]
     },
     {
       "title": "western costumes at DuckDuckGo",
@@ -4937,7 +6440,10 @@
       "to": 7,
       "toName": "покупки и быт",
       "group": "покупка",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "покупки и быт"
+      ]
     },
     {
       "title": "vinted at DuckDuckGo",
@@ -4946,7 +6452,10 @@
       "to": 7,
       "toName": "покупки и быт",
       "group": "покупка",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "покупки и быт"
+      ]
     },
     {
       "title": "японская одежда купить at DuckDuckGo",
@@ -4955,7 +6464,10 @@
       "to": 7,
       "toName": "покупки и быт",
       "group": "покупка",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "покупки и быт"
+      ]
     },
     {
       "title": "туфли v05 купить москва at DuckDuckGo",
@@ -4964,7 +6476,10 @@
       "to": 7,
       "toName": "покупки и быт",
       "group": "покупка",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "покупки и быт"
+      ]
     },
     {
       "title": "одежда в стиле барокко at DuckDuckGo",
@@ -4973,7 +6488,10 @@
       "to": 7,
       "toName": "покупки и быт",
       "group": "покупка",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "покупки и быт"
+      ]
     },
     {
       "title": "Куртка которая +охлаждает at DuckDuckGo",
@@ -4982,7 +6500,10 @@
       "to": 7,
       "toName": "покупки и быт",
       "group": "покупка",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "покупки и быт"
+      ]
     },
     {
       "title": "Купить Шпилька Денджеверли от Denjewerly — 1000 ₽ | Витрина",
@@ -4991,7 +6512,10 @@
       "to": 7,
       "toName": "покупки и быт",
       "group": "покупка",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "покупки и быт"
+      ]
     },
     {
       "title": "Купить shorts от Даниил Железнов — 5999 ₽ | Витрина",
@@ -5000,7 +6524,10 @@
       "to": 7,
       "toName": "покупки и быт",
       "group": "покупка",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "покупки и быт"
+      ]
     },
     {
       "title": "Купить Худи DESTROYED HOODIE от die young — 8888 ₽ | Витрина",
@@ -5009,7 +6536,10 @@
       "to": 7,
       "toName": "покупки и быт",
       "group": "покупка",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "покупки и быт"
+      ]
     },
     {
       "title": "Купить Сумка Вилион от Denjewerly — 16050 ₽ | Витрина",
@@ -5018,7 +6548,10 @@
       "to": 7,
       "toName": "покупки и быт",
       "group": "покупка",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "покупки и быт"
+      ]
     },
     {
       "title": "Купить Сумка Астрал от Denjewerly — 12000 ₽ | Витрина",
@@ -5027,7 +6560,10 @@
       "to": 7,
       "toName": "покупки и быт",
       "group": "покупка",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "покупки и быт"
+      ]
     },
     {
       "title": "Купить Серьги Чудики от Denjewerly — 5050 ₽ | Витрина",
@@ -5036,7 +6572,10 @@
       "to": 7,
       "toName": "покупки и быт",
       "group": "покупка",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "покупки и быт"
+      ]
     },
     {
       "title": "Купить Брелок Луремис от Denjewerly — 2250 ₽ | Витрина",
@@ -5045,7 +6584,10 @@
       "to": 7,
       "toName": "покупки и быт",
       "group": "покупка",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "покупки и быт"
+      ]
     },
     {
       "title": "Купить Брелок Ксиларис от Denjewerly — 2250 ₽ | Витрина",
@@ -5054,7 +6596,10 @@
       "to": 7,
       "toName": "покупки и быт",
       "group": "покупка",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "покупки и быт"
+      ]
     },
     {
       "title": "Купить архивные готические кольца от ObliviousViolence — 2200 ₽ | Витрина",
@@ -5063,7 +6608,10 @@
       "to": 7,
       "toName": "покупки и быт",
       "group": "покупка",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "покупки и быт"
+      ]
     },
     {
       "title": "Пончо, цвет xxl, черный – купить в интернет-магазине Лавка Дракона на Яндекс Маркете",
@@ -5072,7 +6620,10 @@
       "to": 7,
       "toName": "покупки и быт",
       "group": "покупка",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "покупки и быт"
+      ]
     },
     {
       "title": "Юбка Ouji Lolita черная, размер S, цвет черный – купить в интернет-магазине Находки из Китая на Яндекс Маркете",
@@ -5081,7 +6632,10 @@
       "to": 7,
       "toName": "покупки и быт",
       "group": "покупка",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "покупки и быт"
+      ]
     },
     {
       "title": "L’ÉSCURE",
@@ -5090,7 +6644,10 @@
       "to": 7,
       "toName": "покупки и быт",
       "group": "покупка",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "покупки и быт"
+      ]
     },
     {
       "title": "Туфли мужские ЭЛВИС 146115ЧН (цвет черный, натуральная кожа) — купить по цене 10240 р. в интернет-магазине RALF RINGER | Стильная мужская обувь в Москве",
@@ -5099,7 +6656,10 @@
       "to": 7,
       "toName": "покупки и быт",
       "group": "покупка",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "покупки и быт"
+      ]
     },
     {
       "title": "Туфли мужские ФЕНИКС 193103ЧВ (цвет черный, спилок) — купить по цене 15990 р. в интернет-магазине RALF RINGER | Стильная мужская обувь в Москве",
@@ -5108,7 +6668,10 @@
       "to": 7,
       "toName": "покупки и быт",
       "group": "покупка",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "покупки и быт"
+      ]
     },
     {
       "title": "Топы в стиле «каваи» | Милые рубашки, свитера, толстовки и многое другое — Интернет-магазин модной одежды в стиле «каваи» | Милая азиатская, японская, харадзюку-мода в стиле «каваи»",
@@ -5117,7 +6680,10 @@
       "to": 7,
       "toName": "покупки и быт",
       "group": "покупка",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "покупки и быт"
+      ]
     },
     {
       "title": "Аниме-Магазин «Няпи» Аниме-магазин №1 !",
@@ -5126,7 +6692,10 @@
       "to": 6,
       "toName": "чтение и арт",
       "group": "манга и комиксы",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "чтение и арт"
+      ]
     },
     {
       "title": "ИМ SSS Каталог",
@@ -5135,7 +6704,10 @@
       "to": 6,
       "toName": "чтение и арт",
       "group": "арт и референсы",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "чтение и арт"
+      ]
     },
     {
       "title": "Двубортный жакет из льна",
@@ -5144,7 +6716,10 @@
       "to": 7,
       "toName": "покупки и быт",
       "group": "покупка",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "покупки и быт"
+      ]
     },
     {
       "title": "ДВОР — одежда и аксессуары бренда | Витрина",
@@ -5153,7 +6728,10 @@
       "to": 7,
       "toName": "покупки и быт",
       "group": "покупка",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "покупки и быт"
+      ]
     },
     {
       "title": "Все товары - Каталог | PION",
@@ -5162,7 +6740,10 @@
       "to": 7,
       "toName": "покупки и быт",
       "group": "покупка",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "покупки и быт"
+      ]
     },
     {
       "title": "(14) How to FINALLY Break out of Beginner Skater Jail - YouTube",
@@ -5180,7 +6761,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "ии",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "Sophontic — About",
@@ -5189,7 +6773,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "ии",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "(27) How Did Kishimoto Make Pain So Convincing? - YouTube",
@@ -5198,7 +6785,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "Небинарная квартира из Твиттера - YouTube",
@@ -5207,7 +6797,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "The Real Reason Russians Don't Rise Up - YouTube",
@@ -5216,7 +6809,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "(27) Why the Epstein Files Didn't Start a Revolution - YouTube",
@@ -5225,7 +6821,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "(27) пакостная компания пакостей - YouTube",
@@ -5234,7 +6833,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "(27) One star reviews of classic books that actually understood them perfectly - YouTube",
@@ -5243,7 +6845,10 @@
       "to": 6,
       "toName": "чтение и арт",
       "group": "видео и уроки",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "чтение и арт"
+      ]
     },
     {
       "title": "(27) What Remains Valuable When Anyone Can Build Anything? - YouTube",
@@ -5252,7 +6857,10 @@
       "to": 8,
       "toName": "здоровье, работа, деньги",
       "group": "финансы",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "здоровье, работа, деньги"
+      ]
     },
     {
       "title": "600 лет одного почерка. Настоящее имя системы, которой служил Эпштейн - YouTube",
@@ -5261,7 +6869,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "Почему современное искусство стоит миллионы и при чем тут ЦРУ? Все секреты арт-бизнеса! - YouTube",
@@ -5288,7 +6899,10 @@
       "to": 8,
       "toName": "здоровье, работа, деньги",
       "group": "карьера",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "здоровье, работа, деньги"
+      ]
     },
     {
       "title": "(21) Pornography addiction is a myth - YouTube",
@@ -5297,7 +6911,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "The divine secret ALL Demigods kept hidden - YouTube",
@@ -5306,7 +6923,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "The Best Habits for NEW SKATERS - YouTube",
@@ -5315,7 +6935,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "JTeam - YouTube",
@@ -5324,7 +6947,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "https://www.youtube.com/watch?v=SnNm7rSSvlg",
@@ -5333,7 +6959,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "https://www.youtube.com/@Yapsome",
@@ -5342,7 +6971,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "https://www.youtube.com/@RedGiraffe404/videos",
@@ -5351,7 +6983,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "I don't have time to build these things, will you? - YouTube",
@@ -5369,7 +7004,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "https://www.youtube.com/watch?v=CuvtLA9JaKI",
@@ -5378,7 +7016,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "https://www.youtube.com/watch?v=AcS1pLlXB8g",
@@ -5387,7 +7028,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "What They Just Built Is Insane - YouTube",
@@ -5405,7 +7049,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "https://www.youtube.com/watch?v=Ih7ufC0I7Y0",
@@ -5414,7 +7061,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "Things That Sound Fake But Are Well Documented - YouTube",
@@ -5423,7 +7073,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "The Most Insane Megaproject You Never Heard About - YouTube",
@@ -5441,7 +7094,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "Stories That Can't Be Told Linearly - YouTube",
@@ -5450,7 +7106,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "Опубликовать пост / X",
@@ -5459,7 +7118,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "Physiologically Effective Timing of Ollie - YouTube",
@@ -5468,7 +7130,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "Open Social - YouTube",
@@ -5477,7 +7142,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "Logan isn't actually mad - YouTube",
@@ -5486,7 +7154,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "\"whitehogll\" at DuckDuckGo",
@@ -5495,7 +7166,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "Kumar Lied To You - YouTube",
@@ -5504,7 +7178,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "Hotel Fur Elise Playing Cards by Anti-Faro — Kickstarter",
@@ -5513,7 +7190,10 @@
       "to": 7,
       "toName": "покупки и быт",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "покупки и быт"
+      ]
     },
     {
       "title": "Interior Design for Boys - YouTube",
@@ -5522,7 +7202,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "If The Person Getting Cancelled Didn't Care - YouTube",
@@ -5531,7 +7214,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "I built my own motion graphics app - YouTube",
@@ -5549,7 +7235,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "Your Stars",
@@ -5558,7 +7247,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "Sepi's FH5 Tuning Cheat Sheet - Google Таблицы",
@@ -5567,7 +7259,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "2023 FH5 Tuning Guide (Cancelled Video) - Google Документы",
@@ -5576,7 +7271,10 @@
       "to": 3,
       "toName": "игры и геймдев",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "игры и геймдев"
+      ]
     },
     {
       "title": "Genre-Genre Pairs | Flourish",
@@ -5585,7 +7283,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "flying to tokyo to make $113k in 15 minutes - YouTube",
@@ -5594,7 +7295,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "Conor Shakory | Linktree",
@@ -5603,7 +7307,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "Bulgaria’s Tsarichina Hole is Pure NIGHTMARE Fuel. - YouTube",
@@ -5621,7 +7328,10 @@
       "to": 7,
       "toName": "покупки и быт",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "покупки и быт"
+      ]
     },
     {
       "title": "@StrimerSlavik — фетта",
@@ -5630,7 +7340,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "философия и мышление"
+      ]
     },
     {
       "title": "Яндекс Маркет",
@@ -5648,7 +7361,10 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "Miel – I'll Be Holding Lyrics | Genius Lyrics",
@@ -5675,7 +7391,10 @@
       "to": 7,
       "toName": "покупки и быт",
       "group": "покупка",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "покупки и быт"
+      ]
     },
     {
       "title": "Стол обеденный Scorpio Marble B5809 — купить в Lamplife",
@@ -5684,7 +7403,10 @@
       "to": 7,
       "toName": "покупки и быт",
       "group": "покупка",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "покупки и быт"
+      ]
     },
     {
       "title": "Каталог — Lamplife",
@@ -5693,7 +7415,10 @@
       "to": 7,
       "toName": "покупки и быт",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "покупки и быт"
+      ]
     },
     {
       "title": "Обеденный стул Helios — купить в Lamplife",
@@ -5702,7 +7427,10 @@
       "to": 7,
       "toName": "покупки и быт",
       "group": "покупка",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "покупки и быт"
+      ]
     },
     {
       "title": "2-к. квартира, 95 м², 2/5 эт. в аренду Москве | Снять квартиру | Авито (8335846145)",
@@ -5711,7 +7439,10 @@
       "to": 7,
       "toName": "покупки и быт",
       "group": "аренда",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "покупки и быт"
+      ]
     },
     {
       "title": "cryptobredda/omarchy-query-menu: Configurable AI, web search, and URL command palette for the Omarchy launcher",
@@ -5720,7 +7451,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "getagentictools — The #1 directory for skills, plugins, loops & MCPs",
@@ -5729,7 +7463,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "Big Bad Voodoo Daddy – Mr. Pinstripe Suit Lyrics | Genius Lyrics",
@@ -5738,7 +7475,10 @@
       "to": 2,
       "toName": "медиа",
       "group": "музыка",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "(15) Yes, Jev Is Insane, But There's A Catch - YouTube",
@@ -5756,7 +7496,10 @@
       "to": 2,
       "toName": "медиа",
       "group": "клипы",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "медиа"
+      ]
     },
     {
       "title": "Авито: недвижимость, транспорт, работа, услуги, вещи",
@@ -5765,7 +7508,10 @@
       "to": 7,
       "toName": "покупки и быт",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "покупки и быт"
+      ]
     },
     {
       "title": "фен - Классические фены для волос - купить в Москве с доставкой недорого на Авито",
@@ -5783,7 +7529,10 @@
       "to": 7,
       "toName": "покупки и быт",
       "group": "покупка",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "покупки и быт"
+      ]
     },
     {
       "title": "Купить пылесос в Москве с доставкой | Недорогие б/у и новые пылесосы | Авито",
@@ -5810,7 +7559,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "NickalasLight/VibeHarness: A tiny, dependency-free Ralph-loop agent harness for small local models (VibeThinker-3B via Ollama).",
@@ -5819,7 +7571,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "WeiboAI/CLR: Claim-Level Reliability Assessment for Efficient Test-Time Reasoning",
@@ -5828,7 +7583,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "ии",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "Qwen 3.6 35b-a3b at DuckDuckGo",
@@ -5837,7 +7595,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "ии",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "(14) Is This the End of Handwritten Math? Introducing Lean - YouTube",
@@ -5855,7 +7616,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "ии",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "OpenBMB/MiniCPM: MiniCPM5: SOTA on-device LLMs, small yet powerful.",
@@ -5864,7 +7628,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "ии",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "(14) NVFP4: NVIDIA’s New Favorite AI Precision Is a Nightmare - YouTube",
@@ -5882,7 +7649,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "ии",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "How a Knowledge Graph Made Haiku as Accurate as Fable 5 - YouTube",
@@ -5918,7 +7688,10 @@
       "to": 4,
       "toName": "наука и ИИ",
       "group": "ии",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "наука и ИИ"
+      ]
     },
     {
       "title": "(14) Designing Silicon From Scratch - YouTube",
@@ -5954,7 +7727,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "headroomlabs-ai/headroom: Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
@@ -5981,7 +7757,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "Каталог — Lamplife",
@@ -5990,7 +7769,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "Image Preview | superfile",
@@ -5999,7 +7781,10 @@
       "to": 1,
       "toName": "код и серверы",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "код и серверы"
+      ]
     },
     {
       "title": "cfilipov/ergozen: Ergonomic command palette for Zen Browser tabs and workspaces",
@@ -6026,7 +7811,10 @@
       "to": 8,
       "toName": "здоровье, работа, деньги",
       "group": "здоровье",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "здоровье, работа, деньги"
+      ]
     },
     {
       "title": "СмартМед. Запись на приём в клинику",
@@ -6035,7 +7823,10 @@
       "to": 8,
       "toName": "здоровье, работа, деньги",
       "group": "здоровье",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "здоровье, работа, деньги"
+      ]
     },
     {
       "title": "ИНВИТРО",
@@ -6044,7 +7835,10 @@
       "to": 8,
       "toName": "здоровье, работа, деньги",
       "group": "здоровье",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "здоровье, работа, деньги"
+      ]
     },
     {
       "title": "(26) Your Brain Is 150,000 Mini-Brains - YouTube",
@@ -6062,7 +7856,10 @@
       "to": 8,
       "toName": "здоровье, работа, деньги",
       "group": "здоровье",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "здоровье, работа, деньги"
+      ]
     },
     {
       "title": "https://lk.spectramed.ru/reg-clinic-activate",
@@ -6098,7 +7895,10 @@
       "to": 8,
       "toName": "здоровье, работа, деньги",
       "group": "здоровье",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "здоровье, работа, деньги"
+      ]
     },
     {
       "title": "RETA peptide at DuckDuckGo",
@@ -6107,7 +7907,10 @@
       "to": 8,
       "toName": "здоровье, работа, деньги",
       "group": "здоровье",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "здоровье, работа, деньги"
+      ]
     },
     {
       "title": "gfhk-cu at DuckDuckGo",
@@ -6116,7 +7919,10 @@
       "to": 8,
       "toName": "здоровье, работа, деньги",
       "group": "здоровье",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "здоровье, работа, деньги"
+      ]
     },
     {
       "title": "claskosterone at DuckDuckGo",
@@ -6125,7 +7931,10 @@
       "to": 8,
       "toName": "здоровье, работа, деньги",
       "group": "здоровье",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "здоровье, работа, деньги"
+      ]
     },
     {
       "title": "BPC-157 at DuckDuckGo",
@@ -6134,7 +7943,10 @@
       "to": 8,
       "toName": "здоровье, работа, деньги",
       "group": "прочее",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "здоровье, работа, деньги"
+      ]
     },
     {
       "title": "третиноин at DuckDuckGo",
@@ -6143,7 +7955,10 @@
       "to": 8,
       "toName": "здоровье, работа, деньги",
       "group": "здоровье",
-      "pinned": false
+      "pinned": false,
+      "openedIn": [
+        "здоровье, работа, деньги"
+      ]
     },
     {
       "title": "Brain’s Hidden Learning Limits - YouTube",
@@ -6179,6 +7994,15 @@
       "to": 5,
       "toName": "философия и мышление",
       "group": "психология",
+      "pinned": false
+    },
+    {
+      "title": "Vertex-Mods/Zen-Tidy-Tabs: Sort your tabs using Firefox's local AI but make it look awesome! Includes ATG install.",
+      "url": "https://github.com/Vertex-Mods/Zen-Tidy-Tabs",
+      "from": "OTHER",
+      "to": 1,
+      "toName": "код и серверы",
+      "group": "инструменты",
       "pinned": false
     }
   ]

@@ -81,6 +81,22 @@ export async function findSessionFile(profilesRoot = join(homedir(), ".zen")) {
   return candidates[0] ?? null;
 }
 
+/** Самый свежий zen-sessions.jsonlz4 — своя сессия Zen: пространства, группы, вкладки. */
+export async function findZenSessions(profilesRoot = join(homedir(), ".zen")) {
+  const candidates = [];
+  for (const entry of await readdir(profilesRoot, { withFileTypes: true })) {
+    if (!entry.isDirectory()) continue;
+    const path = join(profilesRoot, entry.name, "zen-sessions.jsonlz4");
+    try {
+      candidates.push({ path, mtime: (await stat(path)).mtimeMs });
+    } catch {
+      /* нет файла — не кандидат */
+    }
+  }
+  candidates.sort((a, b) => b.mtime - a.mtime);
+  return candidates[0] ?? null;
+}
+
 /** Открытые вкладки: id — порядковый номер, как их видит группировка. */
 export async function readZenTabs({ file, includeAbout = false } = {}) {
   const found = file ? { path: file } : await findSessionFile();
