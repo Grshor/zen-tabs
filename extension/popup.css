@@ -156,6 +156,16 @@ footer {
   font: inherit;
 }
 
+/* Три кнопки пульта не влезают в 380px одной строкой — пусть переносятся. */
+#models .actions {
+  flex-wrap: wrap;
+}
+
+#models h2 .hint {
+  margin: 0;
+  font-weight: normal;
+}
+
 footer label {
   display: flex;
   gap: 5px;

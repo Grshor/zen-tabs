@@ -1,0 +1,13 @@
+[Unit]
+Description=Пульт локальных моделей для расширения «Разбор вкладок»
+Documentation=file:///home/gwushor/Projects/zen-tabs/README.md
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/python3 %h/Projects/zen-tabs/bin/serve-ctl.py 8096
+Restart=on-failure
+RestartSec=2
+
+[Install]
+WantedBy=default.target

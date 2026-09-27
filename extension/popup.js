@@ -21,7 +21,15 @@ const el = {
   dupeCount: document.getElementById("dupeCount"),
   closeDupes: document.getElementById("closeDupes"),
   skipPinned: document.getElementById("skipPinned"),
+  modelsState: document.getElementById("modelsState"),
+  modelsHint: document.getElementById("modelsHint"),
+  modelsFull: document.getElementById("modelsFull"),
+  modelsDecider: document.getElementById("modelsDecider"),
+  modelsStop: document.getElementById("modelsStop"),
 };
+
+const CTL_URL = "http://127.0.0.1:8096";
+const MODEL_LABELS = { fast: "воркер", think: "ризонер", decider: "решатель" };
 
 const state = { tabs: [], plan: null, duplicates: [] };
 const COLOR_HEX = {
@@ -84,6 +92,79 @@ function renderDuplicates(duplicates) {
 function escapeHtml(value) {
   return String(value).replace(/[&<>"']/g, (ch) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[ch]));
 }
+
+/**
+ * Пульт локальных моделей (:8096, служба zen-tabs-ctl). Единственное место, где
+ * расширение не читает, а запускает: сам llama-server поднимает `lm` в
+ * ~/Projects/localmix, пульт только нажимает кнопку и отдаёт состояние.
+ */
+async function ctl(path, options = {}) {
+  const response = await fetch(CTL_URL + path, {
+    ...options,
+    headers: { "X-Zen-Tabs": "1", ...(options.headers || {}) },
+  });
+  const data = await response.json().catch(() => ({}));
+  if (!response.ok) throw new Error(data.error || `HTTP ${response.status}`);
+  return data;
+}
+
+let modelsTimer = null;
+
+function renderModels(status) {
+  const names = Object.keys(status.models || {});
+  const up = names.filter((name) => status.models[name]);
+  const down = names.filter((name) => !status.models[name]);
+  el.modelsState.textContent = !up.length
+    ? "не подняты"
+    : down.length
+      ? `на GPU: ${up.map((name) => MODEL_LABELS[name] || name).join(", ")}`
+      : "все три на GPU";
+
+  const vram = status.vram?.usedMiB ? `${(status.vram.usedMiB / 1024).toFixed(1)} GB VRAM занято` : "";
+  if (status.job) {
+    el.modelsHint.textContent = `${status.job.what === "stop" ? "останавливаю" : "поднимаю"} (${status.job.seconds} с)…`;
+  } else {
+    el.modelsHint.textContent =
+      [down.length ? `ждут запуска: ${down.map((name) => MODEL_LABELS[name] || name).join(", ")}` : "", vram]
+        .filter(Boolean)
+        .join(" · ");
+  }
+
+  const busy = Boolean(status.job);
+  el.modelsFull.disabled = busy;
+  el.modelsDecider.disabled = busy;
+  el.modelsStop.disabled = busy || !up.length;
+}
+
+async function loadModels() {
+  clearTimeout(modelsTimer);
+  let status;
+  try {
+    status = await ctl("/status");
+  } catch (error) {
+    el.modelsState.textContent = "пульт не отвечает";
+    el.modelsHint.textContent = `${error.message} · служба: systemctl --user status zen-tabs-ctl`;
+    for (const button of [el.modelsFull, el.modelsDecider, el.modelsStop]) button.disabled = true;
+    return;
+  }
+  renderModels(status);
+  // Подъём трёх моделей — секунды; следим за ним из попапа, пока он открыт.
+  if (status.job) modelsTimer = setTimeout(loadModels, 1500);
+}
+
+async function runCtl(action, body) {
+  for (const button of [el.modelsFull, el.modelsDecider, el.modelsStop]) button.disabled = true;
+  try {
+    await ctl(action, { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(body || {}) });
+  } catch (error) {
+    el.modelsHint.textContent = `не вышло: ${error.message}`;
+  }
+  await loadModels();
+}
+
+el.modelsFull.addEventListener("click", () => runCtl("/start", { what: "full" }));
+el.modelsDecider.addEventListener("click", () => runCtl("/start", { what: "decider" }));
+el.modelsStop.addEventListener("click", () => runCtl("/stop"));
 
 function renderPlan(plan) {
   state.plan = plan;
@@ -430,3 +511,4 @@ el.clear.addEventListener("click", clearPlan);
 el.closeDupes.addEventListener("click", closeDuplicates);
 
 loadTabs().then(loadPlan);
+loadModels();
