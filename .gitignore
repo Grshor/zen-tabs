@@ -1,2 +1,5 @@
 .build/
 zen-tabs@local.xpi
+__pycache__/
+*.pyc
+*.xpi
